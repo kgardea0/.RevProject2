@@ -1,0 +1,34 @@
+[debug] > Exec(~run, None, None)
+[info] sbt server started at local:sbt-server-eb328d9403aa5fba9042
+[debug] Writing bsp connection file
+[info] started sbt server
+[debug] > Exec(__runWatch console0, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(__preWatch console0, None, None)
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[error] java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[error] 	at retail_db.GetRevenuePerOrder$.main(GetRevenuePerOrder.scala:8)
+[error] 	at retail_db.GetRevenuePerOrder.main(GetRevenuePerOrder.scala)
+[error] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[error] 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+[error] 	at sbt.Run.invokeMain(Run.scala:143)
+[error] 	at sbt.Run.execute$1(Run.scala:93)
+[error] 	at sbt.Run.$anonfun$runWithLoader$5(Run.scala:120)
+[error] 	at sbt.Run$.executeSuccess(Run.scala:186)
+[error] 	at sbt.Run.runWithLoader(Run.scala:120)
+[error] 	at sbt.Defaults$.$anonfun$bgRunTask$6(Defaults.scala:1983)
+[error] 	at sbt.Defaults$.$anonfun$termWrapper$2(Defaults.scala:1922)
+[error] 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+[error] 	at scala.util.Try$.apply(Try.scala:213)
+[error] 	at sbt.internal.BackgroundThreadPool$BackgroundRunnable.run(DefaultBackgroundJobService.scala:369)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[error] 	at java.base/java.lang.Thread.run(Thread.java:833)
+[error] (Compile / run) java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[error] Total time: 6 s, completed May 23, 2022, 1:04:48 PM
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(__postWatch console0, None, None)
+[debug] > Exec(__waitWatch console0, None, None)
