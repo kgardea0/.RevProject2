@@ -14,8 +14,6 @@ We developed a Back-end Application with the capacity of analyzing Big Data emph
    
  ## Trathen Mecimore
    Inspired by gaming and modding, became more curious and determined to learn the ins and outs of programs
-     
- ## Eric Bui
  
  ## Nicholas Famoye
    My analytical, creative and collaborative mindset facilitated my desire to transition from a sociological background into technology. 
@@ -82,11 +80,3 @@ Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the
 | C2 to B3 | [@simonberner](https://github.com/simonberner) |
 
 **Top 20 Leaderboard: Most moves across all games, except me.**
-
-| Moves | Who |
-| ----- | --- |
-| 1622 | [@michaelprimo](https://github.com/michaelprimo) |
-| 1466 | [@simonberner](https://github.com/simonberner) |
-| 1061 | [@JRetza](https://github.com/JRetza) |
-| 799 | [@JohnyP36](https://github.com/JohnyP36) |
-| 780 | [@houhoulis](https://github.com/houhoulis) |
