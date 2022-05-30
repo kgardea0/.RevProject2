@@ -1,6 +1,17 @@
-[error] java.lang.ArrayIndexOutOfBoundsException: 0
-[error] 	at retail_db.GetRevenuePerOrder$.main(GetRevenuePerOrder.scala:8)
-[error] 	at retail_db.GetRevenuePerOrder.main(GetRevenuePerOrder.scala)
+[error] java.lang.IllegalArgumentException: System memory 259522560 must be at least 471859200. Please increase heap size using the --driver-memory option or spark.driver.memory in Spark configuration.
+[error] 	at org.apache.spark.memory.UnifiedMemoryManager$.getMaxMemory(UnifiedMemoryManager.scala:217)
+[error] 	at org.apache.spark.memory.UnifiedMemoryManager$.apply(UnifiedMemoryManager.scala:199)
+[error] 	at org.apache.spark.SparkEnv$.create(SparkEnv.scala:330)
+[error] 	at org.apache.spark.SparkEnv$.createDriverEnv(SparkEnv.scala:175)
+[error] 	at org.apache.spark.SparkContext.createSparkEnv(SparkContext.scala:257)
+[error] 	at org.apache.spark.SparkContext.<init>(SparkContext.scala:424)
+[error] 	at org.apache.spark.SparkContext$.getOrCreate(SparkContext.scala:2526)
+[error] 	at org.apache.spark.sql.SparkSession$Builder$$anonfun$7.apply(SparkSession.scala:930)
+[error] 	at org.apache.spark.sql.SparkSession$Builder$$anonfun$7.apply(SparkSession.scala:921)
+[error] 	at scala.Option.getOrElse(Option.scala:121)
+[error] 	at org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:921)
+[error] 	at retail_db.data_cleanup$.main(data_cleanup.scala:19)
+[error] 	at retail_db.data_cleanup.main(data_cleanup.scala)
 [error] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 [error] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 [error] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -18,4 +29,4 @@
 [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 [error] 	at java.lang.Thread.run(Thread.java:750)
-[error] (Compile / run) java.lang.ArrayIndexOutOfBoundsException: 0
+[error] (Compile / run) java.lang.IllegalArgumentException: System memory 259522560 must be at least 471859200. Please increase heap size using the --driver-memory option or spark.driver.memory in Spark configuration.

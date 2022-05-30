@@ -8,7 +8,7 @@ import org.apache.spark.sql.types._
 
 object data_cleanup {
 
-  val mycsv = "src/input/CSV_Data_2022_5_20_19_58.csv"
+  val mycsv = "src/input/complete_csv.csv"
 
 
   def main(args: Array[String]) {
@@ -20,12 +20,11 @@ object data_cleanup {
 
 
 
-    var df = spark.read
+    val df = spark.read
       .option("header", "true")
       .option("inferSchema", "true")
       .csv(mycsv)
 
-    df.show(20)
 
 //change order_id column to sequential integers by iterating over a range of integers
 //    val x = Range(1,10001)
@@ -34,8 +33,7 @@ object data_cleanup {
 //    )
 
 //change columns to integer values
-    df = df.withColumn("qty",col("qty").cast("Integer"))
-    df.printSchema()
+//    df("country").
 
 
 

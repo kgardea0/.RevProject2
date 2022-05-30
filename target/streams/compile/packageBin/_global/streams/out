@@ -2,14 +2,8 @@
 [debug] Input file mappings:
 [debug] 	retail_db
 [debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db
-[debug] 	retail_db\GetRevenuePerOrder$$anonfun$1.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\GetRevenuePerOrder$$anonfun$1.class
-[debug] 	retail_db\GetRevenuePerOrder$$anonfun$2.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\GetRevenuePerOrder$$anonfun$2.class
-[debug] 	retail_db\GetRevenuePerOrder$$anonfun$3.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\GetRevenuePerOrder$$anonfun$3.class
-[debug] 	retail_db\GetRevenuePerOrder$.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\GetRevenuePerOrder$.class
-[debug] 	retail_db\GetRevenuePerOrder.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\GetRevenuePerOrder.class
+[debug] 	retail_db\data_cleanup$.class
+[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\data_cleanup$.class
+[debug] 	retail_db\data_cleanup.class
+[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\data_cleanup.class
 [debug] Done packaging.

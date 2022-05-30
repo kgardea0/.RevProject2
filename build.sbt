@@ -19,7 +19,9 @@ libraryDependencies ++= Seq(
   "org.apache.poi" % "poi" % "5.2.0",
   "org.apache.poi" % "poi-ooxml" % "5.2.0",
   "org.apache.poi" % "poi-ooxml-lite" % "5.2.0",
-  "com.github.mrpowers" %% "spark-daria" % "0.39.0"
+  "com.github.mrpowers" %% "spark-daria" % "0.39.0",
+  "org.vegas-viz" %% "vegas" % "0.3.9",
+  "org.vegas-viz" %% "vegas-spark" % "0.3.9"
 )
 
 
