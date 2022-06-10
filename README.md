@@ -46,7 +46,23 @@ To-do list:
     •	Create a scalable new user login with registration feature 
     •	Integrate Hive in the 
     •	Utilizing case classes for cleaner and professional programming.
+    
+## Getting Started
 
+•	Installed the correct versions of Scala (2.11.12), Spark (2.4.8) and JDK (1.8).
+
+•	Add JDK and Spark homes to the PATH variables for your system.
+
+•	Download all code files, including build.sbt.
+
+•	Configure IntelliJ or IDE of your choice to work with the appropriate version of JDK.
+
+•	Run from within IDE.
+
+
+## Usage
+
+Ensure you follow the above configurations, after which you can input the code into you preferred IDE and run the menu, for each query options there will be a Vegas visualization graph and it might pop up in a separate window.
 
 # Team Members    
  ## Justin Yeary
