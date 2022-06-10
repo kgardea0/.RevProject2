@@ -5,7 +5,7 @@
 # BIG DATA ANALYTICAL APPLICATION
 This is a group project that comprises of four team members known as Team Vegas. We developed a Back-end Application with the capacity of analyzing Big Data emphasized on providing solutions to Marketing Department common challenges. We conglomerated Programing languages, query languages and databases to deduce valued information suitable for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
 
-[Project 2 Link](https://github.com/kgardea0/.github.git)
+[Project 2 Link]([https://github.com/kgardea0/.github.git](https://github.com/kgardea0/.RevProject2/blob/master/src/main/scala/retail_db/exp_menu.scala))
 
 ## Languages And Technology  
 
