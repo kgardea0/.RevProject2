@@ -16,12 +16,8 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-core" % "2.4.8",
   "org.apache.spark" %% "spark-sql" % "2.4.8",
   "org.apache.spark" %% "spark-hive" % "2.4.8",
-  "org.apache.poi" % "poi" % "5.2.0",
-  "org.apache.poi" % "poi-ooxml" % "5.2.0",
-  "org.apache.poi" % "poi-ooxml-lite" % "5.2.0",
-  "com.github.mrpowers" %% "spark-daria" % "0.39.0",
-  "org.vegas-viz" %% "vegas" % "0.3.9",
-  "org.vegas-viz" %% "vegas-spark" % "0.3.9"
+  "org.vegas-viz" %% "vegas" % "0.3.11",
+  "org.vegas-viz" %% "vegas-spark" % "0.3.11"
 )
 
 

@@ -1,9 +1,49 @@
-[debug] Packaging C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\spark2demo_2.11-0.1.0-SNAPSHOT.jar ...
-[debug] Input file mappings:
-[debug] 	retail_db
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db
-[debug] 	retail_db\data_cleanup$.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\data_cleanup$.class
-[debug] 	retail_db\data_cleanup.class
-[debug] 	  C:\Users\Justin\Desktop\spark3demo\target\scala-2.11\classes\retail_db\data_cleanup.class
-[debug] Done packaging.
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/spark2demo_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Justin_Admin_Log_Module$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/Justin_Admin_Log_Module$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Justin_Admin_Log_Module.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/Justin_Admin_Log_Module.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/questin_1a$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/questin_1a$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/questin_1a.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/questin_1a.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$$anonfun$main$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$$anonfun$main$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/team4_menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/team4_menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$$anonfun$main$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$$anonfun$main$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	retail_db/visual.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/users/Justin/IdeaProjects/.RevProject2/target/scala-2.11/classes/retail_db/visual.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -57,7 +57,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 55,MGGC001,Mr. Golden Gorczany,C001,Chicken,C,upi,1041,9401.1,2022-02-25,Finland,West Isombury,amanda.com,794c6cbe-4cc6-4d2a-a06a-07ac4b2e99fe,Y,NA
 56,MTM001,Myrtice Tillman,M001,Mouse,E,card,1160,6548.5,2022-02-26,Kuwait,Kutchfurt,morton.com,5685d003-fe01-426c-9040-1c426dd265ef,Y,NA
 57,SHC004,Stefanie Harber,C004,Computer,B,wallet,4439,4204.4,2022-02-27,Venezuela,Zellachester,clyde.com,d4ecf2bf-3c43-4300-8452-24534d90734d,Y,NA
-58,KLM001,Katelynn Lang,M001,Mouse,E,card,2174,2155.7,2022-02-28,Virgin Islands, British,Pfefferhaven,20f5aa0a-723b-4888-be9c-fceae8e21569,Y,NA
+58,KLM001,Katelynn Lang,M001,Mouse,E,card,2174,2155.7,2022-02-28,Virgin Islands,Chicago,Pfefferhaven,20f5aa0a-723b-4888-be9c-fceae8e21569,Y,NA
 59,RFS005,Rudy Ferry,S005,Soap,E,wallet,9629,7277.8,2022-03-01,Luxembourg,Abbybury,ariane.name,3587a7bf-97be-46f1-83d2-b342ad33c84d,Y,NA
 60,WHT002,Wilhelmine Hegmann,T002,Table,A,online_banking,1749,3054.3,2022-03-02,Madagascar,Kathleenchester,ines.biz,57d7683d-1d78-4040-91d1-1b506f456e44,Y,NA
 61,AHC002,Amelia Harvey,C002,Chips,C,wallet,4980,8896.8,2022-03-03,Oman,Andersonside,irving.biz,bb057fa9-de0e-4beb-994c-24b5b9234dd9,Y,NA
@@ -107,7 +107,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 105,SNS001,Stephon Nienow,S001,Shoes,A,upi,1270,2156,2022-04-16,Mongolia,North Alvah,orpha.com,ab858350-fded-47d3-96ce-af8ddba6a537,Y,NA
 106,KRP002,Katharina Rempel,P002,Pizza,F,card,3185,7498.4,2022-04-17,Lao People's Democratic Republic,Larsonberg,rossie.com,c704aa6d-d504-45a1-8c3b-0c0180de36e8,Y,NA
 107,DHB002,Darren Hodkiewicz,B002,Bacon,A,card,7330,9527,2022-04-18,Bermuda,Halvorsonton,americo.info,9e01989a-c7ed-42b2-8b96-a6e718e3a6ea,N,wrong_info
-108,JBB001,Jean Braun,B001,Ball,A,upi,7559,1610.9,2022-04-19,Virgin Islands, British,Port Trevor,d1597e93-75bf-43e1-84cd-b8e2558b3f9e,Y,NA
+108,JBB001,Jean Braun,B001,Ball,A,upi,7559,1610.9,2022-04-19,Virgin Islands,Chicago,Port Trevor,d1597e93-75bf-43e1-84cd-b8e2558b3f9e,Y,NA
 109,MMHC005,Mr. Madelyn Hamill,C005,Car,D,card,3008,3996.8,2022-04-20,Gibraltar,Corwinmouth,murl.biz,0e3e0523-1292-43b4-8d4d-2ec3bced168a,Y,NA
 110,DPB003,Davon Price,B003,Bike,F,online_banking,3678,8003.8,2022-04-21,Greece,South Lupe,hettie.org,7cb70d84-9881-4f86-b8b4-3e672ec3be82,Y,NA
 111,TKDDSS004,Taya Kling DDS,S004,Salad,D,upi,8240,2888.4,2022-04-22,Ecuador,West Gilberto,danny.biz,8da16208-99b1-4cee-8eee-b6ad83411143,Y,NA
@@ -217,7 +217,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 215,DSS004,Deshawn Schmitt,S004,Salad,D,card,4464,8537.1,2022-08-04,Montserrat,North Fernborough,micheal.com,6618f17c-84d1-4178-b5b6-0ce8cdb2550b,Y,NA
 216,AHC005,Avis Hartmann,C005,Car,D,card,355,2463.8,2022-08-05,Indonesia,North Jaceland,wilfrid.info,13be07a8-28cd-4a29-9f5f-48722641e2e7,N,suspicious_txn
 217,CKC005,Coty Kuvalis,C005,Car,D,card,7261,566.2,2022-08-06,Northern Mariana Islands,East Franciscafort,mariam.info,a00a266b-f3d8-4ab9-a8f8-87a2aa5a7bad,Y,NA
-218,MBDC006,Miss Bailee Dare,C006,Chair,E,wallet,3424,4717.1,2022-08-07,Virgin Islands, British,North Brennastad,050e8fbb-50d9-4e71-866c-65faa5accc61,N,insufficient_funds
+218,MBDC006,Miss Bailee Dare,C006,Chair,E,wallet,3424,4717.1,2022-08-07,Virgin Islands,Detroit,North Brennastad,050e8fbb-50d9-4e71-866c-65faa5accc61,N,insufficient_funds
 219,PSS002,Pamela Schuppe,S002,Sausages,C,online_banking,5185,9877.1,2022-08-08,Palestinian Territory,North Jamir,billie.net,6ed96f33-f396-4594-a847-1f21262f0d5f,N,suspicious_txn
 220,CKDVMP002,Colleen Kessler DVM,P002,Pizza,F,card,6558,3150.5,2022-08-09,Algeria,Spencerport,rafael.biz,9eab2b77-6717-4d59-87fc-bd850ab02b85,Y,NA
 221,SKB003,Spencer Kilback,B003,Bike,F,card,2269,9703.8,2022-08-10,Greenland,Port Pedro,norene.net,09174330-120b-4873-9b71-d9b81424c49d,Y,NA
@@ -261,7 +261,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 259,BRP001,Burley Ruecker,P001,Pants,B,card,3805,5357.8,2022-09-17,Central African Republic,New Damien,cedrick.biz,46430144-0433-482c-a12a-be414317ebd1,N,wrong_info
 260,HBS001,Hollis Bednar,S001,Shoes,A,wallet,6395,945.5,2022-09-18,Jersey,Manuelaville,esteban.org,f29cb9be-68b5-4734-a3d0-0ccb61abdc33,N,wrong_info
 261,MSBS003,Mrs. Sienna Breitenberg,S003,Shirt,B,card,8,7245,2022-09-19,Mexico,South Karl,cade.info,46dff62f-b8c8-446a-bace-3633d89e5ebc,N,insufficient_funds
-262,TRC005,Tatum Ruecker,C005,Car,D,card,1985,906.5,2022-09-20,Virgin Islands, British,Crystelchester,c8f7ab6d-0fcd-4459-aac3-4266f6be9607,N,wrong_info
+262,TRC005,Tatum Ruecker,C005,Car,D,card,1985,906.5,2022-09-20,Virgin Islands,Detroit,Crystelchester,c8f7ab6d-0fcd-4459-aac3-4266f6be9607,N,wrong_info
 263,ANP001,Alphonso Nader,P001,Pants,B,wallet,3616,1411.9,2022-09-21,Afghanistan,Port Cleve,napoleon.com,a6db7091-1417-4a52-890a-893b23ee1a0d,N,insufficient_funds
 264,AFP002,Alexandrine Flatley,P002,Pizza,F,card,7056,2415.5,2022-09-22,Guernsey,Smithmouth,glennie.name,6b936fba-8d59-41de-9e19-fdfc9d33163d,Y,NA
 265,AKK001,Adrianna Kulas,K001,Keyboard,E,card,3641,5065.1,2022-09-23,Saint Vincent and the Grenadines,Barrowshaven,yadira.com,f0ac967d-f9b2-470c-a593-1b117a5fb833,N,suspicious_txn
@@ -309,7 +309,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 307,SSS001,Salma Sawayn,S001,Shoes,A,wallet,5587,3191.1,2022-11-04,Cape Verde,Dexterport,deron.info,0fa40722-d0aa-4572-8277-1fb4da6522bb,Y,NA
 308,MRC001,Margarete Ryan,C001,Chicken,C,upi,3170,7431.1,2022-11-05,Timor-Leste,Kreigerberg,mariam.com,1fe070ef-003a-493e-9bf4-ae9212d1d670,Y,NA
 309,ELSS003,Emanuel Lowe Sr.,S003,Shirt,B,wallet,6982,1815,2022-11-06,Heard Island and McDonald Islands,East Kariannemouth,arch.com,bef63f56-0b80-4be6-8fb1-f4a3de3b5bd2,N,suspicious_txn
-310,BSDDSS003,Bobbie Spencer DDS,S003,Shirt,B,wallet,2511,521.3,2022-11-07,Virgin Islands, U.S.,Lake Kaden,e9256b8d-ce6c-4bc4-9921-6015dddb26e4,N,wrong_info
+310,BSDDSS003,Bobbie Spencer DDS,S003,Shirt,B,wallet,2511,521.3,2022-11-07,Virgin Islands, Dallas,Lake Kaden,e9256b8d-ce6c-4bc4-9921-6015dddb26e4,N,wrong_info
 311,EHM001,Elenor Homenick,M001,Mouse,E,upi,1962,7719.2,2022-11-08,Albania,South Evansview,maxime.name,65b31447-ead7-4a71-b026-2b1414b3d68c,N,wrong_info
 312,OST003,Ocie Schinner,T003,Tuna,F,upi,5705,5429.4,2022-11-09,Saudi Arabia,Port Josephchester,darion.info,74bf8381-1230-4020-9b20-6225dcc4d229,Y,NA
 313,PLC006,Pablo Lubowitz,C006,Chair,E,card,1426,8951.4,2022-11-10,Republic of Korea,Maziemouth,aiden.net,cc666d1d-3418-4c8a-b62f-659c662a1ade,Y,NA
@@ -422,7 +422,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 420,MKC001,Martin Kozey,C001,Chicken,C,card,6023,7217.6,2022-02-25,Samoa,Constanceland,nolan.biz,0f9befe6-1146-471c-a7fd-a16f3ff03c1e,Y,NA
 421,DMHS003,Dr. Missouri Howe,S003,Shirt,B,online_banking,6118,2112.1,2022-02-26,Reunion,Boyerburgh,onie.biz,736f3cea-addb-4ce9-a66c-4ee39c511a74,N,suspicious_txn
 422,MNFT003,Ms. Nathanael Franecki,T003,Tuna,F,online_banking,260,4551.2,2022-02-27,India,Isaiahbury,nola.org,0eeddf5c-ae42-452f-89df-373468d69317,Y,NA
-423,MRWM001,Mrs. Reilly Will,M001,Mouse,E,online_banking,8294,853,2022-02-28,Virgin Islands, British,Lake Stacy,8bb41354-282a-4540-98b9-8524c5b27fcd,N,insufficient_funds
+423,MRWM001,Mrs. Reilly Will,M001,Mouse,E,online_banking,8294,853,2022-02-28,Virgin Islands,Detroit,Lake Stacy,8bb41354-282a-4540-98b9-8524c5b27fcd,N,insufficient_funds
 424,ABS001,Aniya Barton,S001,Shoes,A,upi,7073,6833.9,2022-03-01,Cambodia,Cristalmouth,jackson.info,3608ccbc-9523-4ed2-ab63-f1a02ceae87b,Y,NA
 425,ERIIIG001,Ernie Rau III,G001,Gloves,C,card,2479,383.4,2022-03-02,Seychelles,Hirtheland,rocky.biz,e58adece-2bb5-4c0c-8a96-732093f52bee,Y,NA
 426,AMGB001,Abdiel MacGyver,B001,Ball,A,online_banking,2051,2415.7,2022-03-03,Costa Rica,Dimitriland,lavada.biz,2a09eef4-a9cb-4af4-b5a7-a3d927ef4fab,N,insufficient_funds
@@ -542,7 +542,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 540,MHS003,Michelle Hilll,S003,Shirt,B,wallet,4600,1343.4,2022-06-25,Uruguay,Lake Alvenastad,earnest.com,cac399ef-a348-4f5e-ae23-1259ff4482d5,Y,NA
 541,KHF001,Kaia Hermiston,F001,Fish,B,wallet,4397,6646.4,2022-06-26,Bahrain,New Maybelle,ryleigh.net,60a4ebf9-b511-46e8-bdc3-28526ca7601b,N,wrong_info
 542,AHP001,Ayana Heidenreich,P001,Pants,B,upi,5677,7859.8,2022-06-27,Holy See (Vatican City State),Danielmouth,aidan.biz,ad605018-d438-4e1a-91bb-4ce60d87e807,N,insufficient_funds
-543,ENC006,Estrella Nitzsche,C006,Chair,E,card,2942,8620.9,2022-06-28,Virgin Islands, British,Hansenstad,4feab2e0-602a-4d00-ae54-b14ba46e91d9,Y,NA
+543,ENC006,Estrella Nitzsche,C006,Chair,E,card,2942,8620.9,2022-06-28,Virgin Islands,Detroit,Hansenstad,4feab2e0-602a-4d00-ae54-b14ba46e91d9,Y,NA
 544,REH001,Renee Ebert,H001,Hat,F,card,7255,6734.5,2022-06-29,Estonia,Lake Ameliaborough,angela.biz,854999a4-6647-439b-a6a3-f20d6508a71a,N,wrong_info
 545,ELP001,Elmira Larson,P001,Pants,B,wallet,7817,1953.5,2022-06-30,Netherlands Antilles,South Martin,joseph.net,ae1a8a3c-3a86-45e2-bfb4-1ebdd2dda533,Y,NA
 546,ALM001,Alena Little,M001,Mouse,E,wallet,4797,9525.2,2022-07-01,Saint Pierre and Miquelon,East Duncanport,amelia.name,fb7dfea8-2d60-46f3-861b-34799964f9c6,Y,NA
@@ -611,7 +611,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 609,MPF001,Murray Prosacco,F001,Fish,B,card,4281,5595.6,2022-09-02,Iran,Elinortown,barrett.info,c5e79597-9a00-4e64-b72e-54156ca3c2d9,Y,NA
 610,JKS005,Jordy Koch,S005,Soap,E,online_banking,3566,493,2022-09-03,Slovakia (Slovak Republic),Schneiderview,rowland.info,4d9ec2a6-4b35-421a-a21d-f053af28d81f,N,wrong_info
 611,HTH001,Heather Thiel,H001,Hat,F,upi,4756,7445.7,2022-09-04,Saint Martin,East Aminaton,oscar.info,616b591d-512d-402f-9e22-0d6a931817d1,N,suspicious_txn
-612,MNBS005,Mr. Noe Brekke,S005,Soap,E,wallet,7301,3308.4,2022-09-05,Virgin Islands, U.S.,Port Kenyatta,19d000dd-269a-4fb7-8d1b-f991366a0d0c,N,wrong_info
+612,MNBS005,Mr. Noe Brekke,S005,Soap,E,wallet,7301,3308.4,2022-09-05,Virgin Islands, Dallas,Port Kenyatta,19d000dd-269a-4fb7-8d1b-f991366a0d0c,N,wrong_info
 613,FBS001,Floy Bogisich,S001,Shoes,A,online_banking,7120,3635.6,2022-09-06,Puerto Rico,Emelyburgh,sincere.name,f452ee34-1c75-4654-9dc0-e30feb5c14da,N,insufficient_funds
 614,CAS005,Clinton Anderson,S005,Soap,E,upi,6027,6100.8,2022-09-07,Saint Helena,Pacochaton,alisa.org,e08e46bb-ae83-4141-9e7b-7a0a18277fc2,N,insufficient_funds
 615,MCG001,Miller Corkery,G001,Gloves,C,upi,8197,1817,2022-09-08,Saint Vincent and the Grenadines,Bruenville,julianne.info,bb84c399-7287-46ef-a486-030018bede7d,N,wrong_info
@@ -658,7 +658,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 656,HHG001,Hillary Heathcote,G001,Gloves,C,online_banking,2199,3872.8,2022-10-19,Bouvet Island (Bouvetoya),Lake Jeniferport,ford.com,b5f69b17-ee76-46c0-869b-ecf953108e44,Y,NA
 657,OYS001,Oliver Yundt,S001,Shoes,A,upi,3899,1575.2,2022-10-20,Uruguay,Port Laurence,jillian.net,aa70cbf7-0dbc-4437-877a-4414b3be3e2d,Y,NA
 658,BHT001,Brigitte Harber,T001,Towels,D,online_banking,2038,4566.3,2022-10-21,Latvia,Reecefurt,arvel.biz,bd5198a3-4473-4b40-b6f5-d1b8c303064e,N,wrong_info
-659,AEC006,Andreanne Erdman,C006,Chair,E,online_banking,7617,2937.1,2022-10-22,Virgin Islands, British,Lake Alden,21175a1e-03b8-42f1-967a-1cba4b96fd6f,N,suspicious_txn
+659,AEC006,Andreanne Erdman,C006,Chair,E,online_banking,7617,2937.1,2022-10-22,Virgin Islands,Detroit,Lake Alden,21175a1e-03b8-42f1-967a-1cba4b96fd6f,N,suspicious_txn
 660,EBC002,Elyse Bartell,C002,Chips,C,upi,4264,3336.1,2022-10-23,American Samoa,East Abeborough,lucinda.com,7302a6e7-e449-4653-a0d3-b2c3300d30c2,Y,NA
 661,RFIM001,Rosalind Feeney I,M001,Mouse,E,online_banking,3931,5564.7,2022-10-24,Honduras,Wintheiserville,madyson.com,152f210f-57c1-49c2-8774-e4edfca9323c,N,suspicious_txn
 662,KRC004,Kelton Rau,C004,Computer,B,wallet,2783,9740.7,2022-10-25,French Polynesia,Justicemouth,lenna.info,b4ac7edf-a2fa-45b1-81eb-d13a353739ab,N,insufficient_funds
@@ -694,7 +694,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 692,MCLS001,Mr. Cristina Lakin,S001,Shoes,A,online_banking,4155,7972.8,2022-11-24,Philippines,Port Violaport,allison.info,46615182-9363-4795-ac2b-e7e75077d67f,Y,NA
 693,EDG001,Emilie Durgan,G001,Gloves,C,upi,9252,7162.8,2022-11-25,Algeria,New Margret,brent.net,a28734af-9269-4b2d-b55f-b31b35c408ee,N,suspicious_txn
 694,OFP001,Ole Fay,P001,Pants,B,card,4311,625.1,2022-11-26,Denmark,New Tayaburgh,loraine.org,6e8a8e7a-3171-423b-99a3-c88e049b9c07,N,suspicious_txn
-695,OPS002,Omer Pollich,S002,Sausages,C,online_banking,5913,2077.1,2022-11-27,Virgin Islands, British,Hegmanntown,2b2babba-05f0-42e6-ba81-64f1bf2fbe6d,N,suspicious_txn
+695,OPS002,Omer Pollich,S002,Sausages,C,online_banking,5913,2077.1,2022-11-27,Virgin Islands,Detroit,Hegmanntown,2b2babba-05f0-42e6-ba81-64f1bf2fbe6d,N,suspicious_txn
 696,KMG001,Kristin Mohr,G001,Gloves,C,card,3334,3304.2,2022-11-28,Kyrgyz Republic,Port Joe,jerrold.com,2e158be0-2faf-4db9-886d-580cb9926212,N,insufficient_funds
 697,SPG001,Shakira Prohaska,G001,Gloves,C,wallet,5435,6855,2022-11-29,Dominica,Sauerborough,elfrieda.com,bace2818-a03a-4de4-9be7-4a2e744dfd47,N,suspicious_txn
 698,GHB001,German Hoeger,B001,Ball,A,wallet,7452,6085.4,2022-11-30,Grenada,Ceciliashire,peyton.name,5e670c57-60c2-4899-8408-718ae4b67047,Y,NA
@@ -724,7 +724,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 722,MVRB001,Moises VonRueden,B001,Ball,A,online_banking,2956,1497.7,2022-12-24,Slovakia (Slovak Republic),West Noemy,jasmin.net,b738394a-deff-41bd-99ff-675e5312e91f,N,insufficient_funds
 723,DWS002,Darian Wintheiser,S002,Sausages,C,card,2923,1883.8,2022-12-25,United States of America,Boehmchester,jason.name,193218fb-8fbb-4e22-bc7b-d8eed3b84ca1,Y,NA
 724,AMKP001,Alena McKenzie,P001,Pants,B,wallet,3245,2734.4,2022-12-26,Myanmar,Denesikview,dax.biz,88ffcc95-024c-477e-ae7b-02224f334ed7,N,suspicious_txn
-725,ARS004,Adolphus Raynor,S004,Salad,D,online_banking,5254,4782.7,2022-12-27,Virgin Islands, U.S.,Lakinstad,12aff40c-1930-4616-ad0f-8183b12f2f3c,Y,NA
+725,ARS004,Adolphus Raynor,S004,Salad,D,online_banking,5254,4782.7,2022-12-27,Virgin Islands,Dallas,Lakinstad,12aff40c-1930-4616-ad0f-8183b12f2f3c,Y,NA
 726,EKS004,Emil Kunze,S004,Salad,D,wallet,5169,8966.8,2022-12-28,Gibraltar,Kuhicchester,issac.net,1cde0d6f-bbd5-4883-b9a1-38e2b34e37b9,N,wrong_info
 727,JHB002,Jaleel Hickle,B002,Bacon,A,card,788,1474,2022-12-29,Austria,East Dominic,rahul.info,ca64120c-5bb9-4e03-8483-807a926c36fb,N,suspicious_txn
 728,WCT003,William Conroy,T003,Tuna,F,wallet,5037,687.7,2022-12-30,Fiji,West Narciso,brisa.info,0171c29a-2556-438d-87f5-27c2ef308437,N,insufficient_funds
@@ -825,7 +825,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 823,KKJP001,Kayley Konopelski Jr.,P001,Pants,B,online_banking,9798,8508.1,2022-04-04,Saint Vincent and the Grenadines,Port Armanitown,shyann.info,f29f0d91-6b9d-4220-851d-bdc846fe0a24,N,insufficient_funds
 824,MRMCH001,Mr. Rosemarie McCullough,H001,Hat,F,upi,7608,2913.9,2022-04-05,Bhutan,South Collin,scottie.net,12000e00-b9ee-47a8-a9fe-52e5de246675,N,suspicious_txn
 825,RFB001,Rosemary Fisher,B001,Ball,A,card,7434,8910,2022-04-06,Russian Federation,South Krystelmouth,cullen.net,d8a9c6b1-43c1-4e1d-b7a8-f9d4ed5dd0ff,N,suspicious_txn
-826,CSB001,Cleo Stracke,B001,Ball,A,card,6176,2433.3,2022-04-07,Virgin Islands, British,Runolfsdottirville,6a81f920-1f8b-48d5-ae26-fcc37664a4c8,Y,NA
+826,CSB001,Cleo Stracke,B001,Ball,A,card,6176,2433.3,2022-04-07,Virgin Islands,Detroit,Runolfsdottirville,6a81f920-1f8b-48d5-ae26-fcc37664a4c8,Y,NA
 827,RGP001,Ryan Goyette,P001,Pants,B,wallet,4396,425.5,2022-04-08,Azerbaijan,Wisozktown,alvena.com,d4c81080-f1a6-468e-a97a-9f36b063ac59,Y,NA
 828,BMC001,Bart Marks,C001,Chicken,C,upi,6385,5984.5,2022-04-09,Cook Islands,Wintheiserview,gracie.name,820e9b6a-9094-4489-8105-0a7fe2d954bf,N,wrong_info
 829,BSS003,Barton Spencer,S003,Shirt,B,wallet,2014,8335.6,2022-04-10,Iraq,Ethylport,dallas.biz,b0ec7223-5a6d-42e3-8256-f98c129d5fe1,N,wrong_info
@@ -834,7 +834,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 832,AHH001,Alejandrin Homenick,H001,Hat,F,online_banking,3252,488.1,2022-04-13,Northern Mariana Islands,Steveton,verna.com,45738b0f-d784-42d4-9f23-0328d165a3a9,Y,NA
 833,RLS004,Rachael Lehner,S004,Salad,D,online_banking,6314,4978.4,2022-04-14,Poland,Drakeview,jaida.org,561fb7c6-e62e-483f-bc1c-b0f18db09b1e,N,wrong_info
 834,RBDVMB001,Rhea Bosco DVM,B001,Ball,A,online_banking,7525,2326.9,2022-04-15,Western Sahara,New Hazlemouth,hortense.name,548750cc-2f49-41b1-b187-11ffece31c3d,Y,NA
-835,CRF001,Carlie Renner,F001,Fish,B,upi,3682,889,2022-04-16,Virgin Islands, U.S.,Duncanmouth,330c285e-c47f-4dc0-a274-7f25823b4ff8,N,suspicious_txn
+835,CRF001,Carlie Renner,F001,Fish,B,upi,3682,889,2022-04-16,Virgin Islands,Dallas,Duncanmouth,330c285e-c47f-4dc0-a274-7f25823b4ff8,N,suspicious_txn
 836,HEC002,Horacio Eichmann,C002,Chips,C,upi,1225,9764,2022-04-17,Saint Pierre and Miquelon,North Autumn,laurence.com,2baa4ed7-1c03-430a-a6db-f9bfe50f69ca,N,suspicious_txn
 837,MBDVMM001,Mozell Block DVM,M001,Mouse,E,wallet,6802,7190.9,2022-04-18,Heard Island and McDonald Islands,Volkmanport,edwardo.com,a53d8031-5a0e-41fc-9af0-0a810fd40460,N,wrong_info
 838,MNST002,Miss Nona Simonis,T002,Table,A,wallet,7818,6290.6,2022-04-19,Haiti,New Maggieville,clay.name,bd20d012-ef0e-4747-8a94-e3fdaf9f4271,N,wrong_info
@@ -852,7 +852,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 850,KGF001,Kelsie Greenholt,F001,Fish,B,upi,5033,2751.6,2022-05-01,Reunion,South Aglaeshire,kamren.org,29f7d837-8d98-4c9b-9b7b-4b3beda598a7,Y,NA
 851,JSIC005,Jamar Spencer I,C005,Car,D,card,2497,9670.4,2022-05-02,Hungary,Lake Harmon,verner.biz,e08fd031-ebd0-4c6b-97c3-9ad5ceac4f26,N,suspicious_txn
 852,CPS005,Cecelia Parisian,S005,Soap,E,online_banking,9803,148.9,2022-05-03,Italy,Lake Jeramie,kariane.com,15ee89c4-dde7-4257-888c-11e6c3306f1c,Y,NA
-853,MDS001,Maryjane Daniel,S001,Shoes,A,online_banking,2188,6231.2,2022-05-04,Virgin Islands, U.S.,Houstonberg,2309f116-9fc0-4c3c-82dd-571839e382c1,Y,NA
+853,MDS001,Maryjane Daniel,S001,Shoes,A,online_banking,2188,6231.2,2022-05-04,Virgin Islands,Dallas,Houstonberg,2309f116-9fc0-4c3c-82dd-571839e382c1,Y,NA
 854,CRJS004,Carolyne Reichel Jr.,S004,Salad,D,card,4024,3731.7,2022-05-05,Zambia,Wehnerville,haskell.name,84e45f48-4fa5-4a8d-b10c-d37630b344f0,N,insufficient_funds
 855,PCP002,Pedro Cummerata,P002,Pizza,F,card,3078,475,2022-05-06,Nauru,Randiburgh,brielle.biz,b057c160-edcb-43b6-9e23-2a3ad8b4250c,N,suspicious_txn
 856,HST003,Herminio Schuppe,T003,Tuna,F,online_banking,5526,5075.5,2022-05-07,Indonesia,Port Sidneyshire,linwood.org,0abe8951-18d5-41ba-a098-5209faa8533c,Y,NA
@@ -915,7 +915,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 913,JSS003,Jonas Schaden,S003,Shirt,B,wallet,1524,349.2,2022-07-03,Barbados,West Zola,marcellus.info,dd665d0b-b86a-4f2c-a839-31175fd81969,Y,NA
 914,MAT001,Montana Auer,T001,Towels,D,upi,3434,6139.1,2022-07-04,Grenada,Janisfort,leola.net,0014b7b7-36e2-4e24-8cc5-be8ef426b47d,N,insufficient_funds
 915,ISM001,Ibrahim Schroeder,M001,Mouse,E,upi,2192,1717.7,2022-07-05,Timor-Leste,West Meta,estevan.com,abe0f2d1-a514-405a-bab9-25838de2e732,N,suspicious_txn
-916,EFVM001,Elvera Fay V,M001,Mouse,E,wallet,8454,8270.9,2022-07-06,Virgin Islands, British,East Fletcherbury,4811d1fe-7c64-47bb-847f-2de0ff03f13d,N,insufficient_funds
+916,EFVM001,Elvera Fay V,M001,Mouse,E,wallet,8454,8270.9,2022-07-06,Virgin Islands,Detroit,East Fletcherbury,4811d1fe-7c64-47bb-847f-2de0ff03f13d,N,insufficient_funds
 917,BWB003,Brook Welch,B003,Bike,F,card,7840,5877.4,2022-07-07,Micronesia,East Jermain,lea.org,2cacf70d-47eb-4fdf-99fe-f81b8a20779e,N,suspicious_txn
 918,JBF001,Junior Boyer,F001,Fish,B,wallet,9672,596.3,2022-07-08,Romania,Carriestad,kenyatta.biz,d2015af3-3c33-4848-a79f-9fb39752cf06,Y,NA
 919,LRC004,Linnie Robel,C004,Computer,B,wallet,7738,5814.3,2022-07-09,Niue,Breitenbergberg,asha.com,b49f5150-d410-44bd-b5e4-8906eb814cc4,N,wrong_info
@@ -1021,7 +1021,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 1019,DEC003,Damon Emard,C003,Cheese,D,card,1234,5316,2022-10-17,Turkmenistan,Macejkovicborough,marcelino.name,6ddfed4b-c10a-45f7-85b8-3cfb15ed20bb,Y,NA
 1020,FSC004,Finn Schumm,C004,Computer,B,wallet,3898,431.2,2022-10-18,Tanzania,New Johnsonburgh,dallin.com,5b172f73-f95e-4263-aae8-9fd065ec5296,Y,NA
 1021,MLLS004,Mrs. Leon Lubowitz,S004,Salad,D,online_banking,8008,5198.9,2022-10-19,Senegal,Hollisberg,jamaal.net,118a1907-b246-4937-bbd0-2ed75e5ebb1f,N,suspicious_txn
-1022,ATIB003,Adrain Turcotte I,B003,Bike,F,online_banking,1676,4469.1,2022-10-20,Virgin Islands, British,Zachariahburgh,c038a278-6754-4aea-8686-0e388b30f1e0,Y,NA
+1022,ATIB003,Adrain Turcotte I,B003,Bike,F,online_banking,1676,4469.1,2022-10-20,Virgin Islands,Detroit,Zachariahburgh,c038a278-6754-4aea-8686-0e388b30f1e0,Y,NA
 1023,ZRP001,Zane Reilly,P001,Pants,B,card,6149,4648,2022-10-21,United Arab Emirates,Zachariahborough,maida.com,681d4a9a-5f74-41eb-b86a-0110fab7587c,N,suspicious_txn
 1024,ADF001,Adalberto Dicki,F001,Fish,B,wallet,6031,7725.1,2022-10-22,Botswana,Port Masonbury,wilfred.com,46f5f371-9f91-4025-bdd8-a2351a584aee,Y,NA
 1025,ALS005,Allison Larkin,S005,Soap,E,online_banking,1138,9103.5,2022-10-23,Northern Mariana Islands,New Jacky,zion.biz,045dcc01-c8be-47af-b0c6-296d3cc195b4,N,wrong_info
@@ -1072,7 +1072,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 1070,AHC005,Aniyah Hermiston,C005,Car,D,card,6085,3113.8,2022-12-07,United States of America,North Gracie,belle.info,c3293c89-dc68-4682-8c30-4333b6d6a8c9,Y,NA
 1071,RMM001,Rose Moen,M001,Mouse,E,card,5958,3265.1,2022-12-08,Cote d'Ivoire,Lake Liza,alexys.info,295fce31-f396-4403-8569-ba8762554b02,Y,NA
 1072,PHC003,Payton Hahn,C003,Cheese,D,card,6887,5598.5,2022-12-09,Moldova,West Candido,kyler.com,1c31f759-5c22-4ba3-92c9-0da5f88b7917,N,suspicious_txn
-1073,RCT002,Robin Conroy,T002,Table,A,online_banking,4998,3181.1,2022-12-10,Virgin Islands, U.S.,Port Yasmin,47e16a3c-6535-4769-9ebf-6a7e7d7029fa,Y,NA
+1073,RCT002,Robin Conroy,T002,Table,A,online_banking,4998,3181.1,2022-12-10,Virgin Islands,Chicago,Port Yasmin,47e16a3c-6535-4769-9ebf-6a7e7d7029fa,Y,NA
 1074,DHH001,Domenick Hessel,H001,Hat,F,upi,7452,5828.1,2022-12-11,Seychelles,New Yoshiko,zakary.org,f36606c7-4063-4c3b-9866-16bda680ba9a,N,insufficient_funds
 1075,AKS004,Adrien Kunde,S004,Salad,D,card,2638,1851.6,2022-12-12,Cyprus,South Lon,myrl.name,dad4dee9-64c6-411e-aaf6-f6d6681727cc,Y,NA
 1076,DJS005,Dallas Jaskolski,S005,Soap,E,online_banking,9635,2278.3,2022-12-13,Mali,East Mylestown,jaclyn.biz,afebac58-1e12-427e-9adc-d061fd8b1c18,N,wrong_info
@@ -1375,7 +1375,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 1373,CHB002,Cory Hyatt,B002,Bacon,A,online_banking,910,6731.7,2022-10-06,Algeria,New Nicholasville,sadye.info,54541e9e-4d9d-4a86-b950-4c5a876b12c3,Y,NA
 1374,MHS005,Maymie Heaney,S005,Soap,E,wallet,8706,9514.9,2022-10-07,Falkland Islands (Malvinas),Pagacburgh,maryam.name,df1d6f60-80b8-4cda-91f7-5eb8492adf28,N,wrong_info
 1375,VKIIIS001,Violette Kirlin III,S001,Shoes,A,wallet,9092,5746.2,2022-10-08,Niue,East Allison,lamar.info,e4dbeca4-18a6-4d4c-b4f3-5a5e8ccd25c6,N,wrong_info
-1376,DPB001,Dennis Pouros,B001,Ball,A,online_banking,1875,2559.8,2022-10-09,Virgin Islands, U.S.,Heaneyville,d6a74435-cbc0-4da1-a2d7-fe8e725d0454,Y,NA
+1376,DPB001,Dennis Pouros,B001,Ball,A,online_banking,1875,2559.8,2022-10-09,Virgin Islands,Dallas,Heaneyville,d6a74435-cbc0-4da1-a2d7-fe8e725d0454,Y,NA
 1377,ZBB003,Zander Block,B003,Bike,F,online_banking,9391,1836.4,2022-10-10,Taiwan,East Harley,kamron.info,c7c3f91b-36e7-4fa1-89b5-ada4f5aba266,N,insufficient_funds
 1378,JGVC002,Jessie Graham V,C002,Chips,C,upi,2369,2220.8,2022-10-11,Mozambique,Lisaton,josue.net,ef8a80d2-a0b4-477c-bcbc-8c89714d4fa1,Y,NA
 1379,MCT002,Mina Conroy,T002,Table,A,wallet,5007,6394.4,2022-10-12,Saint Kitts and Nevis,Normaberg,bianka.net,c079f277-9bb6-47b3-9237-04d8bbda99f7,N,insufficient_funds
@@ -1623,7 +1623,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 1621,AHC006,Aniyah Hermann,C006,Chair,E,wallet,1139,8362.9,2022-06-11,Fiji,East Stevefort,scot.com,3fa3e1e1-aca7-4f21-bbfd-6eab7e0552af,N,insufficient_funds
 1622,CSC003,Connor Stokes,C003,Cheese,D,online_banking,39,7552.2,2022-06-12,Cuba,West Lonny,carlos.org,c736c6b1-8530-4f64-b4f7-553607fe5a81,N,insufficient_funds
 1623,MTRC004,Ms. Tomasa Rice,C004,Computer,B,wallet,3287,8087.1,2022-06-13,Iran,Montechester,lavonne.biz,5f97849e-fcf3-4327-bb18-df77e51a55a0,N,wrong_info
-1624,ELH001,Elaina Lowe,H001,Hat,F,upi,2430,1898.7,2022-06-14,Virgin Islands, U.S.,Kemmerfurt,96734046-fa97-41f6-90ef-14c5835e7e95,N,suspicious_txn
+1624,ELH001,Elaina Lowe,H001,Hat,F,upi,2430,1898.7,2022-06-14,Virgin Islands,Chicago,Kemmerfurt,96734046-fa97-41f6-90ef-14c5835e7e95,N,suspicious_txn
 1625,LSC001,Libbie Stiedemann,C001,Chicken,C,upi,3737,6049.1,2022-06-15,Kyrgyz Republic,Lake Martaborough,jaclyn.biz,2e9b44b7-7369-4880-bb9e-4441b970da60,N,suspicious_txn
 1626,EBT003,Emery Bradtke,T003,Tuna,F,upi,5216,5660.9,2022-06-16,Argentina,West Madisen,shanelle.info,8a22eea8-e811-4435-b74f-8ba947ff44b8,Y,NA
 1627,MMPF001,Mr. Michele Pagac,F001,Fish,B,online_banking,9145,7795,2022-06-17,Guadeloupe,North Myrtleton,brook.com,a2cd03ec-88a2-43ac-b2d4-8a091904daf0,Y,NA
@@ -1667,13 +1667,13 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 1665,KMS003,Kayden Maggio,S003,Shirt,B,upi,4074,8010.8,2022-07-25,Heard Island and McDonald Islands,Maceyport,trevion.com,1e182332-e65e-4aa0-b9a7-f1ffc7e11e2c,Y,NA
 1666,PHB003,Priscilla Hessel,B003,Bike,F,card,7030,4034.8,2022-07-26,Cote d'Ivoire,East Bill,marlen.com,53da4843-f411-4b19-9bc7-16d85d5cb4cc,Y,NA
 1667,ARM001,Amira Robel,M001,Mouse,E,online_banking,5705,3617,2022-07-27,Swaziland,Walterfurt,amina.info,3263d155-de2e-4b1b-aa63-0a58707760d8,N,insufficient_funds
-1668,TCF001,Teagan Cassin,F001,Fish,B,online_banking,1125,272.9,2022-07-28,Virgin Islands, U.S.,Lubowitzstad,36b296bd-ecda-4b06-9232-4e0bafbbfaf3,N,suspicious_txn
+1668,TCF001,Teagan Cassin,F001,Fish,B,online_banking,1125,272.9,2022-07-28,Virgin Islands,Chicago,Lubowitzstad,36b296bd-ecda-4b06-9232-4e0bafbbfaf3,N,suspicious_txn
 1669,KKS003,Kari Kassulke,S003,Shirt,B,card,2336,8314.9,2022-07-29,Dominica,Aufderharhaven,raymundo.biz,2ca27077-d133-41e7-ba14-67e6e04a1bd4,N,wrong_info
 1670,LCB003,Lucious Crooks,B003,Bike,F,wallet,7790,8037.6,2022-07-30,Suriname,Port Madie,viola.com,c92e8121-2c9c-48d5-9fb3-eb3f01fe600f,Y,NA
 1671,ASC003,Ashton Schumm,C003,Cheese,D,online_banking,3998,7856.4,2022-07-31,Czech Republic,South Vernafort,dewitt.com,05f193bf-a8d7-48b9-9314-52e8e02826ab,Y,NA
 1672,ENC005,Eino Nikolaus,C005,Car,D,card,6848,1370.3,2022-08-01,Wallis and Futuna,D'Amoreport,anne.org,6b1cecb7-a167-4bba-ad9c-d6295847baa6,Y,NA
 1673,SGC001,Stephon Goldner,C001,Chicken,C,online_banking,2971,257.9,2022-08-02,Slovakia (Slovak Republic),Rubieville,claudine.info,c5fb2ea8-291a-44f2-853c-74ae203230eb,N,suspicious_txn
-1674,LFS004,Lazaro Franecki,S004,Salad,D,wallet,1059,1877.3,2022-08-03,Virgin Islands, U.S.,Langoshmouth,19901500-35bc-4b1b-95cb-80959f80d6d8,N,suspicious_txn
+1674,LFS004,Lazaro Franecki,S004,Salad,D,wallet,1059,1877.3,2022-08-03,Virgin Islands,Chicago,Langoshmouth,19901500-35bc-4b1b-95cb-80959f80d6d8,N,suspicious_txn
 1675,MMS004,Marjorie Moore,S004,Salad,D,upi,5076,1204.3,2022-08-04,Iran,Daniellaville,jermey.com,fc005c6e-340a-4469-a886-cdec70854e70,Y,NA
 1676,CKS003,Cornelius Kunze,S003,Shirt,B,online_banking,4813,9391.3,2022-08-05,Mali,West Pansy,deron.com,8e629487-85e3-4940-b36c-992e124f7555,N,suspicious_txn
 1677,LJF001,Lee Jenkins,F001,Fish,B,online_banking,1350,9308.9,2022-08-06,Cambodia,Friesenshire,serenity.net,4624e725-e5fc-4d74-bd95-b6b1a1cf0fbb,N,wrong_info
@@ -2063,7 +2063,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 2061,MHKS002,Ms. Hildegard Keeling,S002,Sausages,C,online_banking,4297,6802.6,2022-08-25,Kyrgyz Republic,East Melvina,adeline.info,5516d2ac-addf-4cd3-bf51-977a5679bd25,N,suspicious_txn
 2062,LHS002,Liliana Huel,S002,Sausages,C,wallet,158,9141.2,2022-08-26,Zambia,New Julianburgh,louie.info,fd54b3cb-99f0-4920-be14-c8a950f4ba30,N,wrong_info
 2063,LCC001,Lizzie Collier,C001,Chicken,C,card,7550,1726.8,2022-08-27,Bahamas,Wolfhaven,ariane.biz,b1eee046-c982-41ea-8c31-3ae1a38dcd3c,Y,NA
-2064,CSC003,Candida Schroeder,C003,Cheese,D,online_banking,6227,2673,2022-08-28,Virgin Islands, British,Marquesstad,74375e23-3906-46f5-ad9e-f4e19f061fd9,N,insufficient_funds
+2064,CSC003,Candida Schroeder,C003,Cheese,D,online_banking,6227,2673,2022-08-28,Virgin Islands,Detroit,Marquesstad,74375e23-3906-46f5-ad9e-f4e19f061fd9,N,insufficient_funds
 2065,ALS001,Alba Larson,S001,Shoes,A,online_banking,2332,7828.1,2022-08-29,Liechtenstein,Amirfurt,walter.org,4d380547-c6fe-4309-911c-1b66c8b7418e,N,wrong_info
 2066,VRM001,Vladimir Rogahn,M001,Mouse,E,card,2631,6389.8,2022-08-30,Cocos (Keeling) Islands,McGlynnview,burnice.name,e5ac8ddf-b7bf-4e00-975a-531a71dffa3d,N,suspicious_txn
 2067,JSC006,Jerome Schinner,C006,Chair,E,online_banking,1147,6615.7,2022-08-31,Romania,Cordellton,katheryn.info,d67ae29c-0ce2-4a80-8ce3-9e4c60c0c93e,N,wrong_info
@@ -2191,7 +2191,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 2189,KVRC002,Kory VonRueden,C002,Chips,C,wallet,6652,9009.3,2022-12-31,El Salvador,Berthabury,cleo.org,5341a4e5-e0b8-41e9-928b-c1fbff88c124,Y,NA
 2190,DBJK001,Dr. Baby Jacobi,K001,Keyboard,E,wallet,9084,4647.3,2022-01-01,Maldives,Padbergborough,hilda.name,d30046a9-baa8-430b-b80e-8a5fe0f757c4,N,insufficient_funds
 2191,DHJC006,Darrel Haag Jr.,C006,Chair,E,wallet,5405,4815.1,2022-01-02,Serbia,Lake Florencio,jaquan.org,165e691e-7b8b-486b-859f-54ece4f08972,N,insufficient_funds
-2192,WFS003,Willard Fritsch,S003,Shirt,B,wallet,7805,344.5,2022-01-03,Virgin Islands, British,Ariannaside,2140fc3b-ff30-4ce1-9103-b7927e822ade,N,insufficient_funds
+2192,WFS003,Willard Fritsch,S003,Shirt,B,wallet,7805,344.5,2022-01-03,Virgin Islands,Detroit,Ariannaside,2140fc3b-ff30-4ce1-9103-b7927e822ade,N,insufficient_funds
 2193,KST001,Kaylee Swaniawski,T001,Towels,D,wallet,5430,4651.2,2022-01-04,Qatar,Andersonburgh,emmett.info,32a1c1f9-4843-4eff-82df-0f27bd1f32ed,N,wrong_info
 2194,SSC004,Shaylee Sauer,C004,Computer,B,wallet,5005,1820.1,2022-01-05,Mauritania,Wernerborough,isadore.com,597cce53-d099-420e-b4ab-45343a1d37b5,N,wrong_info
 2195,DCC003,Dolly Cartwright,C003,Cheese,D,online_banking,7171,2769.9,2022-01-06,Belgium,Lulabury,marge.org,dfe6865a-103e-4ac9-b83a-bf29c1c8116f,Y,NA
@@ -2271,7 +2271,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 2269,JSC003,Jasen Smith,C003,Cheese,D,card,1861,2745.6,2022-03-21,Turkey,Ezekielview,deron.net,ca26ba65-7447-4b07-92ee-7993a180a71e,N,insufficient_funds
 2270,CLP001,Christiana Leuschke,P001,Pants,B,upi,5611,6149.7,2022-03-22,Montenegro,Tatumbury,carson.info,85a5094b-ce2a-4f5a-8eb3-800182afead3,Y,NA
 2271,MKT002,Marjory Kuvalis,T002,Table,A,wallet,777,3943.3,2022-03-23,Egypt,North Reed,kraig.name,ccbe2a8a-b55d-4972-817e-f3666edfc463,N,wrong_info
-2272,RWC005,Ron Wehner,C005,Car,D,wallet,2426,5733.2,2022-03-24,Virgin Islands, British,Lake Jarrett,0f0d0772-4c47-4bd2-8a24-91c39c8517b9,Y,NA
+2272,RWC005,Ron Wehner,C005,Car,D,wallet,2426,5733.2,2022-03-24,Virgin Islands,Detroit,Lake Jarrett,0f0d0772-4c47-4bd2-8a24-91c39c8517b9,Y,NA
 2273,AKJB001,Aleen Kulas Jr.,B001,Ball,A,wallet,718,3482.5,2022-03-25,Vanuatu,Nolaton,greyson.info,f792494f-1b98-4952-b6ba-d3e28476a9f6,Y,NA
 2274,KGC006,Kennith Greenfelder,C006,Chair,E,wallet,2520,2751.5,2022-03-26,Ethiopia,Carrollborough,irwin.net,c4832fd6-3835-4cd6-8a32-457fe30dc914,N,insufficient_funds
 2275,FMCT002,Fermin McCullough,T002,Table,A,card,5295,7805.1,2022-03-27,Estonia,Port Saulmouth,lucile.com,327e0043-a40a-4d19-ad7e-249806dcf73d,N,suspicious_txn
@@ -2704,7 +2704,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 2702,JLG001,Jamir Little,G001,Gloves,C,card,9198,2308.7,2022-05-28,Mauritius,North Viviennemouth,tara.net,37a90be6-b02b-490b-aa3b-c9b79adb3cd6,N,wrong_info
 2703,RGC002,Rashawn Glover,C002,Chips,C,wallet,2436,9334.6,2022-05-29,Cape Verde,New Aryanna,marlen.net,e9c423c2-0e21-45e4-9a1c-d39564b3733b,N,insufficient_funds
 2704,DBC001,Dereck Bayer,C001,Chicken,C,card,4627,1558.2,2022-05-30,Palau,West Diegobury,brenda.info,f8311327-fb1b-4b5d-898b-05e7d3623c25,Y,NA
-2705,BWC006,Briana Witting,C006,Chair,E,card,9286,6819.1,2022-05-31,Virgin Islands, U.S.,Russelstad,307ee11e-a7af-4162-b6af-0110c801bc5d,N,suspicious_txn
+2705,BWC006,Briana Witting,C006,Chair,E,card,9286,6819.1,2022-05-31,Virgin Islands,Chicago,Russelstad,307ee11e-a7af-4162-b6af-0110c801bc5d,N,suspicious_txn
 2706,ABP001,Alene Berge,P001,Pants,B,online_banking,2165,6123.8,2022-06-01,Philippines,Dickifort,rahsaan.biz,c00c9fbd-7777-4420-a0fc-7d9e0c1426b1,Y,NA
 2707,GDG001,Glenda Dach,G001,Gloves,C,online_banking,7660,8693.1,2022-06-02,Cote d'Ivoire,East Shanieville,verona.net,8c08180f-aca5-4483-803b-4b14f38bfc40,Y,NA
 2708,DBBK001,Dr. Bernie Blick,K001,Keyboard,E,wallet,7612,4892.6,2022-06-03,Netherlands,Mrazside,delpha.info,185f1dd5-adc0-4f50-9cc6-74104a129738,Y,NA
@@ -2980,7 +2980,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 2978,OBS001,Ophelia Bode,S001,Shoes,A,wallet,9251,2336.2,2022-02-28,Argentina,Port Amieview,kraig.name,9e0a343a-11f8-4252-afb1-def262fbda7d,N,suspicious_txn
 2979,LWB001,Lelia Weissnat,B001,Ball,A,upi,3051,3601.8,2022-03-01,Honduras,South Malika,naomi.name,790f6892-5b32-4c8a-94a1-4932a2c242d1,N,insufficient_funds
 2980,VMC002,Vincenzo Mante,C002,Chips,C,wallet,4504,2250.4,2022-03-02,Australia,Stonefurt,vallie.net,81a572a9-bbd6-48c8-9297-bce02be120d3,N,insufficient_funds
-2981,EWC002,Ena Wintheiser,C002,Chips,C,card,5775,4000.2,2022-03-03,Virgin Islands, British,East Malloryville,2495a1ff-57f2-4ca0-83ad-1cb9487092ae,N,suspicious_txn
+2981,EWC002,Ena Wintheiser,C002,Chips,C,card,5775,4000.2,2022-03-03,Virgin Islands,Detroit,East Malloryville,2495a1ff-57f2-4ca0-83ad-1cb9487092ae,N,suspicious_txn
 2982,FKM001,Frida Kub,M001,Mouse,E,upi,2134,2658.2,2022-03-04,Sao Tome and Principe,New Lera,mathilde.com,4f93c1dc-cade-48ce-bc60-0cf0f2481ffe,N,insufficient_funds
 2983,MSBS002,Miss Stefan Bruen,S002,Sausages,C,wallet,6322,7402.1,2022-03-05,Costa Rica,Borerland,cesar.com,916ade22-f2ad-44ac-a4fd-39021b6b3a23,N,suspicious_txn
 2984,SMC002,Sim Marquardt,C002,Chips,C,online_banking,710,1865.6,2022-03-06,Thailand,Linneahaven,talon.com,de1a0175-6d3c-4133-b268-b2f3b4b213df,Y,NA
@@ -3212,7 +3212,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3210,RSP001,Rowena Schmidt,P001,Pants,B,wallet,9639,3907.4,2022-10-18,Ecuador,Howellport,reagan.info,af3a1f3e-86e5-4d5d-9260-b3d1220556f6,N,suspicious_txn
 3211,TGF001,Tianna Gleason,F001,Fish,B,card,1271,949.4,2022-10-19,Bosnia and Herzegovina,Tillmanville,matilda.org,0d096934-fc16-4c3c-8d8e-70f98c99f84a,N,insufficient_funds
 3212,DSC006,Dominique Schuppe,C006,Chair,E,online_banking,6604,9104.1,2022-10-20,Denmark,Port Amayafort,aiden.info,df683194-05f4-4f96-978e-1881c8ffced2,Y,NA
-3213,AWC003,Alan West,C003,Cheese,D,upi,5515,6441.9,2022-10-21,Virgin Islands, British,Christfort,ee4ff85d-749e-468c-8dd6-7cf8df8c105f,Y,NA
+3213,AWC003,Alan West,C003,Cheese,D,upi,5515,6441.9,2022-10-21,Virgin Islands,Detroit,Christfort,ee4ff85d-749e-468c-8dd6-7cf8df8c105f,Y,NA
 3214,HDP001,Hildegard Douglas,P001,Pants,B,card,7912,7557.2,2022-10-22,Cape Verde,Port Hettiechester,gaetano.biz,1895068e-dd95-46f1-8d9c-b265dce72410,Y,NA
 3215,ROCT002,Roderick O'Conner,T002,Table,A,online_banking,5756,186.7,2022-10-23,Romania,Arnoldoberg,caroline.net,d4495123-adb2-47bd-9831-69fee0304ec1,N,suspicious_txn
 3216,KZS003,Keara Zboncak,S003,Shirt,B,card,7657,6564.6,2022-10-24,Cameroon,Port Wyman,emilia.net,e676343a-4147-4409-bea5-7e36deb1c8b1,Y,NA
@@ -3287,7 +3287,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3285,JDS004,Jaleel Durgan,S004,Salad,D,online_banking,2896,3779.8,2022-01-01,Guam,New Jaronville,mafalda.name,ac136b10-d779-4241-8af0-65fc7142932f,Y,NA
 3286,OJS003,Orrin Jaskolski,S003,Shirt,B,card,962,8548.7,2022-01-02,Guernsey,Braunborough,lola.info,11d76e4d-6528-4758-a06d-e931bd543aa0,Y,NA
 3287,NVC002,Noemi Veum,C002,Chips,C,wallet,655,7132.6,2022-01-03,Samoa,Delmerside,watson.name,aa98cc0d-5932-4337-b930-98115bd1180b,N,wrong_info
-3288,KMGS002,Kelsie MacGyver,S002,Sausages,C,upi,974,7091.1,2022-01-04,Virgin Islands, British,West Jarredburgh,c017621c-1fe0-479e-8bda-a7ce3bb20de6,Y,NA
+3288,KMGS002,Kelsie MacGyver,S002,Sausages,C,upi,974,7091.1,2022-01-04,Virgin Islands,Detroit,West Jarredburgh,c017621c-1fe0-479e-8bda-a7ce3bb20de6,Y,NA
 3289,NHC005,Nelda Hamill,C005,Car,D,wallet,9401,6222,2022-01-05,Seychelles,Viviennefurt,valentine.biz,df772fa6-fe28-49d4-ad95-ad3be514bd81,Y,NA
 3290,AHF001,Aiyana Hegmann,F001,Fish,B,upi,1333,423.6,2022-01-06,Serbia,Port Bradburgh,nova.com,e6935ef6-425c-4535-9752-29f7175d159c,N,insufficient_funds
 3291,CGB002,Clare Gleason,B002,Bacon,A,card,7528,3496.6,2022-01-07,American Samoa,South Amosfort,anais.name,b63e6028-3571-44e1-b2c8-d00a48058b88,Y,NA
@@ -3349,7 +3349,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3347,MJSC006,Mrs. Jailyn Sawayn,C006,Chair,E,card,2978,8828,2022-03-04,Italy,Casperbury,zakary.com,04e35a99-cdd5-4297-b24c-4d58e1da95c9,N,wrong_info
 3348,KBS002,Kelly Botsford,S002,Sausages,C,upi,2586,3151.4,2022-03-05,Ecuador,South Josiane,leanna.net,2f3516ac-6813-45c2-a3f0-10a317d85b67,N,insufficient_funds
 3349,NPT001,Natalie Prohaska,T001,Towels,D,card,1638,5198.2,2022-03-06,Italy,Petratown,winnifred.info,fb6d5c79-fc8e-4ec7-a35e-39097b165ead,Y,NA
-3350,BRS002,Broderick Rosenbaum,S002,Sausages,C,upi,904,1339.6,2022-03-07,Virgin Islands, British,Rippinborough,bb104edb-b2ec-438a-a211-8300fe40c69e,Y,NA
+3350,BRS002,Broderick Rosenbaum,S002,Sausages,C,upi,904,1339.6,2022-03-07,Virgin Islands,Detroit,Rippinborough,bb104edb-b2ec-438a-a211-8300fe40c69e,Y,NA
 3351,JAM001,Jalyn Aufderhar,M001,Mouse,E,card,1183,5288.9,2022-03-08,Liechtenstein,West Janiyaburgh,adelle.info,b26d2645-9b1b-4ee4-a707-95e7375391d1,Y,NA
 3352,MLRH001,Ms. Lessie Romaguera,H001,Hat,F,upi,8931,3881.2,2022-03-09,Kyrgyz Republic,Ericburgh,gideon.org,4a0a2f66-ef40-4498-8b53-16636ef7e47f,N,suspicious_txn
 3353,MHS002,Marie Hammes,S002,Sausages,C,wallet,5170,2236.8,2022-03-10,Panama,Bulahburgh,elnora.org,ac8bb5a9-a016-4d24-9554-b406c6e3699e,N,insufficient_funds
@@ -3433,7 +3433,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3431,CHIS002,Cordelia Hansen I,S002,Sausages,C,wallet,9882,3724.6,2022-05-27,Montenegro,Rodriguezstad,lucius.name,fca3f30f-6a6b-427f-8fb3-149594c736a2,Y,NA
 3432,KMB001,Korbin Mante,B001,Ball,A,card,7503,3667.4,2022-05-28,Kuwait,New Natashaview,rodger.biz,0955ebf4-92c5-4c6b-9448-d5d86aa7736a,N,insufficient_funds
 3433,NES001,Niko Effertz,S001,Shoes,A,online_banking,745,6817.3,2022-05-29,Christmas Island,Pourosfurt,giovanny.com,9bc2a820-55de-47c5-ab81-7a40eea90705,N,suspicious_txn
-3434,JPC006,Jermaine Prohaska,C006,Chair,E,upi,3984,3774.1,2022-05-30,Virgin Islands, British,Swifthaven,5daab9cc-945b-4e42-ab8e-7963e2f3bd00,N,wrong_info
+3434,JPC006,Jermaine Prohaska,C006,Chair,E,upi,3984,3774.1,2022-05-30,Virgin Islands,Detroit,Swifthaven,5daab9cc-945b-4e42-ab8e-7963e2f3bd00,N,wrong_info
 3435,MDJC001,Miss Dallin Jenkins,C001,Chicken,C,card,96,9872.2,2022-05-31,Iceland,Lake Oswaldobury,oma.biz,d20b963c-d7c8-41ff-b1a7-7b68455a1733,N,insufficient_funds
 3436,MDZC002,Mr. Dina Zboncak,C002,Chips,C,online_banking,2489,864.2,2022-06-01,Bermuda,Port Georgiana,etha.info,c7162f89-40e3-437c-a434-279bbb00ccdf,Y,NA
 3437,ARC006,Anthony Ryan,C006,Chair,E,card,9518,1413.2,2022-06-02,Sudan,Saraichester,jayme.name,acc7d7fc-1224-48b3-8e99-5e24c9cfceaf,Y,NA
@@ -3505,7 +3505,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3503,SOHS003,Soledad O'Hara,S003,Shirt,B,wallet,5071,288.7,2022-08-07,Azerbaijan,Browntown,josephine.org,beaa733d-c73a-4338-9db0-446dfcb1ef4e,Y,NA
 3504,JKM001,Jedidiah Kessler,M001,Mouse,E,upi,4001,7386.8,2022-08-08,Uruguay,New Aaronfurt,lorna.net,b4627440-f892-4e37-ae5f-fa48db786f93,Y,NA
 3505,EEJC004,Eunice Emard Jr.,C004,Computer,B,card,8118,6818.7,2022-08-09,Brazil,Cristoballand,chase.com,4bb43a04-886f-47a4-a9b3-3a03150442cf,Y,NA
-3506,NWS003,Naomi Weber,S003,Shirt,B,upi,965,2288.3,2022-08-10,Virgin Islands, British,Lake Mckayla,6c9a1e82-34ec-48ae-be95-bd9a6d39a457,N,suspicious_txn
+3506,NWS003,Naomi Weber,S003,Shirt,B,upi,965,2288.3,2022-08-10,Virgin Islands,Detroit,Lake Mckayla,6c9a1e82-34ec-48ae-be95-bd9a6d39a457,N,suspicious_txn
 3507,FFSK001,Felix Ferry Sr.,K001,Keyboard,E,online_banking,6422,2760.3,2022-08-11,Mexico,New Sigurd,maribel.name,72e56212-d099-4bdd-883c-971efce4765b,Y,NA
 3508,WVB002,Willow Volkman,B002,Bacon,A,card,5036,455.7,2022-08-12,Belarus,Lake Ubaldoport,lelah.biz,a760f655-24ce-40cd-843f-972e7e85641a,Y,NA
 3509,ERC006,Efrain Russel,C006,Chair,E,card,5824,7707.2,2022-08-13,Saint Kitts and Nevis,Jermeychester,king.name,b6b50cba-d905-4cd0-ac6c-2b5191b0aeef,Y,NA
@@ -3580,7 +3580,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3578,EKK001,Erick Keeling,K001,Keyboard,E,upi,803,5706.7,2022-10-21,Saudi Arabia,Juliusfurt,eunice.com,b1e00d9c-fc72-4df6-ad7f-1a2d4ba2daf4,Y,NA
 3579,EGS005,Emmy Gorczany,S005,Soap,E,upi,1800,2035.2,2022-10-22,Andorra,Port Mafalda,joe.org,5fa2874f-512f-40da-a3a2-e800d6113ad3,Y,NA
 3580,RHB003,Robb Heaney,B003,Bike,F,upi,2158,3984.1,2022-10-23,Nicaragua,South Amyaport,jose.net,d516fb1d-f5a9-4b7e-9462-2d1b10422152,N,wrong_info
-3581,CSC005,Cassidy Smith,C005,Car,D,online_banking,8490,2093.5,2022-10-24,Virgin Islands, U.S.,Hudsonfurt,a60a6e7e-6cee-4856-9e88-8b2387d27bfa,N,wrong_info
+3581,CSC005,Cassidy Smith,C005,Car,D,online_banking,8490,2093.5,2022-10-24,Virgin Islands,Chicago,Hudsonfurt,a60a6e7e-6cee-4856-9e88-8b2387d27bfa,N,wrong_info
 3582,DELH001,Dr. Eleanora Leuschke,H001,Hat,F,online_banking,918,2450.3,2022-10-25,Italy,North Sylvestermouth,danny.com,c9d86c60-bd0a-48d8-9a01-625b84d85797,Y,NA
 3583,HDC003,Helena Douglas,C003,Cheese,D,card,1127,5957.5,2022-10-26,Iraq,East Haven,kiera.net,f0875697-7f99-4674-9961-122bef6b3ab4,N,wrong_info
 3584,CST001,Clemens Stoltenberg,T001,Towels,D,wallet,3361,4896.8,2022-10-27,Antigua and Barbuda,New Biankatown,beatrice.com,7f171f9e-0ab4-41ac-84cb-652751abd42c,Y,NA
@@ -3642,12 +3642,12 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3640,EMT003,Everardo Moore,T003,Tuna,F,wallet,9216,8932.2,2022-12-22,Antarctica (the territory South of 60 deg S),Grantborough,royal.info,31104e2d-00db-4d11-a205-7b9a450a61cb,Y,NA
 3641,TLT001,Theresia Lakin,T001,Towels,D,online_banking,1420,2170.1,2022-12-23,Yemen,Mellieview,pete.org,4a79e35e-c507-49c3-9197-42bc7da01c28,Y,NA
 3642,TBG001,Terence Bahringer,G001,Gloves,C,online_banking,1672,6472.8,2022-12-24,Republic of Korea,Cindyshire,della.org,38e44749-fdb2-4218-9380-5d3da42278c9,Y,NA
-3643,JAIIIS002,Jamie Aufderhar III,S002,Sausages,C,upi,1561,2915.5,2022-12-25,Virgin Islands, U.S.,Lake Kailee,fb318fcd-87ae-4e29-a892-c1c0ff8b1ea7,Y,NA
+3643,JAIIIS002,Jamie Aufderhar III,S002,Sausages,C,upi,1561,2915.5,2022-12-25,Virgin Islands,Chicago,Lake Kailee,fb318fcd-87ae-4e29-a892-c1c0ff8b1ea7,Y,NA
 3644,DCWS001,Dr. Cyril Willms,S001,Shoes,A,online_banking,240,3092.4,2022-12-26,Saint Kitts and Nevis,New Eddieside,kip.info,180aa7dc-edcc-4226-94c4-8ab8f9fec47b,Y,NA
 3645,CHC003,Carmela Halvorson,C003,Cheese,D,upi,7694,8547.8,2022-12-27,Norfolk Island,East Brockshire,rita.info,905b6f69-7fc1-438c-b2d7-0f9d6ff1add0,N,wrong_info
 3646,MSDDSF001,Mireya Stehr DDS,F001,Fish,B,card,1293,3969.5,2022-12-28,Marshall Islands,Virginieburgh,gail.com,c2035c42-a81e-4141-8d2d-49f596e394ca,N,suspicious_txn
 3647,SCS001,Stacey Crooks,S001,Shoes,A,online_banking,1893,2615.8,2022-12-29,Falkland Islands (Malvinas),South Raymondbury,anna.info,8a587380-18ad-40b9-9e62-9fb0b736f893,Y,NA
-3648,CSS005,Cristian Schamberger,S005,Soap,E,upi,29,2766.2,2022-12-30,Virgin Islands, U.S.,Port Schuyler,b849bd0e-439d-4a8f-b8c5-0702c582fc4e,Y,NA
+3648,CSS005,Cristian Schamberger,S005,Soap,E,upi,29,2766.2,2022-12-30,Virgin Islands,Dallas,Port Schuyler,b849bd0e-439d-4a8f-b8c5-0702c582fc4e,Y,NA
 3649,JLC004,Jacinto Lueilwitz,C004,Computer,B,card,4639,952.3,2022-12-31,Uganda,Lafayetteland,josianne.name,1a3df162-376d-4984-8ddf-af7c460b6fda,Y,NA
 3650,KGMDB001,Katelynn Gislason MD,B001,Ball,A,online_banking,7324,6739.2,2022-01-01,Finland,Lake Eliezer,myrtie.biz,bff6d2d2-d4fa-4fb7-a4d8-6c9103d8ab57,Y,NA
 3651,ABG001,Aubrey Beatty,G001,Gloves,C,online_banking,7397,3145.6,2022-01-02,Burundi,New Rosalinda,granville.com,b4110229-054c-4471-b491-cf058bb7ed4e,Y,NA
@@ -3753,7 +3753,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3751,MAS005,Mariela Abernathy,S005,Soap,E,card,2463,2357,2022-04-12,Bahamas,Funkhaven,roberto.org,91f921eb-6ab6-4896-aacb-df2b32c8b246,N,wrong_info
 3752,CAC002,Candice Adams,C002,Chips,C,card,8722,6467.7,2022-04-13,Turkey,Port Amaniside,paul.org,3d95c6cc-accf-45a8-a872-ca9e88592d0c,N,suspicious_txn
 3753,ASS004,Anderson Schumm,S004,Salad,D,wallet,4757,7312.6,2022-04-14,Algeria,Veumborough,hailie.info,cec635a8-695f-4eac-9427-db6833275396,N,suspicious_txn
-3754,KRC004,Kaylie Reichel,C004,Computer,B,wallet,420,5904.4,2022-04-15,Virgin Islands, U.S.,Leannonchester,3cac9b5f-adb8-426a-b907-03030a03b4ae,Y,NA
+3754,KRC004,Kaylie Reichel,C004,Computer,B,wallet,420,5904.4,2022-04-15,Virgin Islands,Chicago,Leannonchester,3cac9b5f-adb8-426a-b907-03030a03b4ae,Y,NA
 3755,MEGB003,Ms. Elroy Greenholt,B003,Bike,F,wallet,2000,4548.6,2022-04-16,Sudan,West Audreystad,brycen.com,6f49fd6c-0ddf-4054-963e-3dd40258eb0b,N,wrong_info
 3756,JTC002,Janice Tillman,C002,Chips,C,online_banking,6328,8069.9,2022-04-17,Australia,West Rodgerville,francesca.biz,82ac6511-a927-41e8-a66c-a9f225dc5a87,N,wrong_info
 3757,MRB001,Maurice Ruecker,B001,Ball,A,card,4586,7063.1,2022-04-18,Malawi,Howehaven,al.name,39ebc9a9-1bee-4b5a-965e-065e9b410842,N,insufficient_funds
@@ -3796,7 +3796,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 3794,AUB002,Anastacio Upton,B002,Bacon,A,upi,7251,903.2,2022-05-25,Malta,West Stefanieview,emmanuelle.com,caee3784-fbbc-4ec3-8200-3ff018466990,Y,NA
 3795,DKC006,Dianna Kling,C006,Chair,E,card,8134,7232.8,2022-05-26,Egypt,O'Connellton,rhea.net,4867c876-af09-4d50-9b96-5e7ebec0cbd0,Y,NA
 3796,MMH001,Mavis Murray,H001,Hat,F,online_banking,2085,767.3,2022-05-27,Canada,New Ardenstad,shirley.com,001e6608-d1ef-4d33-9aaf-76ef3572d972,Y,NA
-3797,MEFB003,Mrs. Emie Fritsch,B003,Bike,F,wallet,7870,4558.1,2022-05-28,Virgin Islands, British,Mullerton,634b2255-54d0-45f1-8aea-badacaf70754,N,wrong_info
+3797,MEFB003,Mrs. Emie Fritsch,B003,Bike,F,wallet,7870,4558.1,2022-05-28,Virgin Islands,Detroit,Mullerton,634b2255-54d0-45f1-8aea-badacaf70754,N,wrong_info
 3798,DCT002,Dudley Crona,T002,Table,A,online_banking,2108,4411.7,2022-05-29,Israel,Maximilianville,alysa.org,fa0ee085-66c4-4ee4-b917-dbf739491170,Y,NA
 3799,MCKF001,Mrs. Cassidy Klocko,F001,Fish,B,upi,9790,7448.6,2022-05-30,Croatia,Howehaven,elnora.com,2b36f3a5-79b5-418d-8e3c-684640e31df7,Y,NA
 3800,FHB002,Filiberto Hoppe,B002,Bacon,A,wallet,8072,215.6,2022-05-31,Eritrea,Rosaliastad,noel.com,62b281f2-b132-4509-a43d-e14d54212ccc,Y,NA
@@ -4122,7 +4122,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4120,KBT002,Kaci Bosco,T002,Table,A,upi,5084,6952.1,2022-04-16,Panama,South Krista,itzel.name,bf1b0d48-e08f-4b0f-8eda-d8056c2a636e,N,suspicious_txn
 4121,APS004,Alexander Padberg,S004,Salad,D,online_banking,5273,8534.2,2022-04-17,China,Port Arnefort,tyree.name,6543c6a1-22ce-403d-a30a-01b748d49469,N,suspicious_txn
 4122,WGDVMM001,Wilhelmine Gislason DVM,M001,Mouse,E,upi,6827,6606.9,2022-04-18,Spain,East Hadleytown,thurman.org,2d9c0c7d-38b3-4af8-8ee0-e60153fa069c,Y,NA
-4123,CMP002,Courtney Moore,P002,Pizza,F,card,3450,1014.2,2022-04-19,Virgin Islands, British,Port Nedfurt,8a84b599-0354-4a93-9cf3-875d2da54efd,N,wrong_info
+4123,CMP002,Courtney Moore,P002,Pizza,F,card,3450,1014.2,2022-04-19,Virgin Islands,Detroit,Port Nedfurt,8a84b599-0354-4a93-9cf3-875d2da54efd,N,wrong_info
 4124,TBS005,Torrey Beer,S005,Soap,E,wallet,1300,6363.4,2022-04-20,Nauru,Lake Callie,reese.biz,6f42226b-03e2-4ebf-9e83-e1a8d6a49ff0,Y,NA
 4125,JMT002,Jaunita Mante,T002,Table,A,online_banking,9051,2610,2022-04-21,Greece,New Esther,marcellus.com,c65da8ac-ca7b-4c37-a1a5-a79847355a8e,Y,NA
 4126,MBH001,Michel Bins,H001,Hat,F,upi,8186,2552.2,2022-04-22,Christmas Island,West Cadenburgh,anna.com,2a02b08d-89f0-4570-b46a-09b57649108e,N,suspicious_txn
@@ -4131,7 +4131,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4129,MCP002,Melvin Cummings,P002,Pizza,F,online_banking,123,5593.6,2022-04-25,Republic of Korea,Grantbury,geraldine.biz,9514c8e6-abf3-4332-8245-a494fef8cf8f,Y,NA
 4130,IDBB002,Imani DuBuque,B002,Bacon,A,wallet,1211,5693.6,2022-04-26,Fiji,Casperview,hettie.info,859a6c1e-bb36-456d-a804-db9389567a40,Y,NA
 4131,ARS004,Abdul Ryan,S004,Salad,D,upi,491,1721.4,2022-04-27,Moldova,Padbergtown,bertram.biz,98a64f99-1ae0-4641-b384-6274a7309950,N,wrong_info
-4132,SKG001,Susie Kiehn,G001,Gloves,C,card,4869,6369.7,2022-04-28,Virgin Islands, British,New Parkerfurt,83b33641-2503-453d-b1ab-6822aee7dfc4,N,wrong_info
+4132,SKG001,Susie Kiehn,G001,Gloves,C,card,4869,6369.7,2022-04-28,Virgin Islands,Detroit,New Parkerfurt,83b33641-2503-453d-b1ab-6822aee7dfc4,N,wrong_info
 4133,MRC004,Mikel Roberts,C004,Computer,B,wallet,9792,255.8,2022-04-29,Liechtenstein,Patrickton,armani.name,be55988b-f945-4cca-917e-070ac1135595,Y,NA
 4134,LMF001,Liliane Medhurst,F001,Fish,B,card,7207,8107.4,2022-04-30,Madagascar,Laishafort,bart.name,48e76315-9415-47dd-8516-25f81d6327b8,Y,NA
 4135,DBS003,Dagmar Bins,S003,Shirt,B,online_banking,4070,531.2,2022-05-01,Peru,Ahmedland,ryann.name,8587f83b-cf76-4340-ba8d-c8c6d1c50b30,Y,NA
@@ -4197,7 +4197,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4195,MBKC004,Mr. Brad Kutch,C004,Computer,B,card,3239,503.4,2022-06-30,Tonga,Walshchester,ramon.org,df2e7143-093c-4c6b-9c71-14de31b866f5,Y,NA
 4196,UOH001,Uriel Ondricka,H001,Hat,F,wallet,8028,5413.8,2022-07-01,Republic of Korea,Littleside,monte.com,ae33999c-7bfd-4078-9bc6-222245989a2c,Y,NA
 4197,RMC001,Reva Mann,C001,Chicken,C,upi,2833,8173.6,2022-07-02,Democratic People's Republic of Korea,Draketon,jessika.name,3808c2da-f570-404b-b694-ca464907aced,Y,NA
-4198,AGB001,Arlo Graham,B001,Ball,A,card,2148,6875.6,2022-07-03,Virgin Islands, British,New Jeanie,3ab2886b-1fc7-4764-bea6-6c442b0a8a2f,N,wrong_info
+4198,AGB001,Arlo Graham,B001,Ball,A,card,2148,6875.6,2022-07-03,Virgin Islands,Detroit,New Jeanie,3ab2886b-1fc7-4764-bea6-6c442b0a8a2f,N,wrong_info
 4199,RHC005,Ray Hamill,C005,Car,D,upi,569,232.8,2022-07-04,Venezuela,McLaughlinmouth,mohammed.name,852b6d65-e125-4781-923c-52a2072d7185,N,insufficient_funds
 4200,SRC002,Susanna Rodriguez,C002,Chips,C,online_banking,6904,3239.9,2022-07-05,Zimbabwe,Lake Devanton,grant.org,46df4b06-1a27-4cb9-a7cc-64d11bdd671f,N,insufficient_funds
 4201,ETS003,Else Tromp,S003,Shirt,B,card,5202,9199.2,2022-07-06,Jordan,East Nonaborough,kian.name,7ec6edf9-6391-41df-b837-7b1b3879abf0,N,insufficient_funds
@@ -4483,7 +4483,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4481,NGC003,Nora Gutmann,C003,Cheese,D,upi,339,7705.8,2022-04-12,Western Sahara,Dickinsontown,gustave.info,fe81db76-9d1a-4d16-b167-5fe6b9b4ead5,Y,NA
 4482,TTT003,Tatyana Terry,T003,Tuna,F,online_banking,7864,9533.5,2022-04-13,Bolivia,North Joaquin,georgiana.info,f22b3c77-a154-4a90-add3-bf9407c8a5f7,N,insufficient_funds
 4483,DBC004,Darron Barrows,C004,Computer,B,wallet,711,5885.8,2022-04-14,Kenya,Flatleyland,edwin.biz,913a8545-db9c-4059-a3f4-86237e8323cf,N,insufficient_funds
-4484,LKM001,Laurine Koepp,M001,Mouse,E,wallet,9961,1254.4,2022-04-15,Virgin Islands, British,Schinnertown,92c0340c-bc6c-4b16-91d3-51f69d684873,N,insufficient_funds
+4484,LKM001,Laurine Koepp,M001,Mouse,E,wallet,9961,1254.4,2022-04-15,Virgin Islands,Detroit,Schinnertown,92c0340c-bc6c-4b16-91d3-51f69d684873,N,insufficient_funds
 4485,DHS002,Daniella Hilpert,S002,Sausages,C,online_banking,962,9028,2022-04-16,Mauritius,Port Laronmouth,jensen.info,e8162cff-889f-447c-868c-3ff66763a05d,N,suspicious_txn
 4486,KSS005,Keshawn Satterfield,S005,Soap,E,upi,2879,1069.4,2022-04-17,Afghanistan,Watsonton,hattie.info,59bb3916-10d1-4716-9226-e61de571fbcd,Y,NA
 4487,GSC003,Geovanny Sipes,C003,Cheese,D,card,6147,9703,2022-04-18,Senegal,East Tom,nova.biz,df3c7551-099f-44b6-9270-468c268f7178,Y,NA
@@ -4513,7 +4513,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4511,GDB002,Genevieve Davis,B002,Bacon,A,online_banking,1025,4570.6,2022-05-12,Antigua and Barbuda,Batztown,sophia.name,86a27793-7e86-48fa-81ce-b948a9b9386b,Y,NA
 4512,JJS002,Jabari Jacobs,S002,Sausages,C,upi,9446,3267.9,2022-05-13,Saint Vincent and the Grenadines,Aracelishire,imogene.info,cf4110e4-f145-4b74-bb58-b83b71796ccd,N,wrong_info
 4513,KOKT001,Krista O'Kon,T001,Towels,D,upi,7290,7372.4,2022-05-14,Burundi,Jackview,winfield.net,50c0cf8d-9110-4c93-a3f9-018e57adab7e,Y,NA
-4514,KKSS003,Katherine Kub Sr.,S003,Shirt,B,upi,6934,9736.6,2022-05-15,Virgin Islands, British,North Amir,97754227-32cf-4742-bc1b-7c62ddd967a5,N,suspicious_txn
+4514,KKSS003,Katherine Kub Sr.,S003,Shirt,B,upi,6934,9736.6,2022-05-15,Virgin Islands,Detroit,North Amir,97754227-32cf-4742-bc1b-7c62ddd967a5,N,suspicious_txn
 4515,FRJB003,Fay Runolfsdottir Jr.,B003,Bike,F,wallet,8575,612.4,2022-05-16,Norfolk Island,West Daphnee,rickie.biz,2d65908f-1daa-474d-840d-5f71b6e47dfd,N,suspicious_txn
 4516,RHP001,Ross Haag,P001,Pants,B,wallet,4620,2095.2,2022-05-17,Norfolk Island,Murlport,lavinia.com,eea758ea-3d95-46d4-9bfb-6b20de56723f,Y,NA
 4517,FRB001,Freida Robel,B001,Ball,A,card,5656,2107.1,2022-05-18,Mozambique,New Shanel,gilbert.info,d7b6ce89-eabf-40a7-9957-2cffda7431e0,Y,NA
@@ -4615,7 +4615,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4613,JDP002,Juston Daniel,P002,Pizza,F,card,8407,2120.3,2022-08-22,Denmark,Boscofort,missouri.org,c51161af-2b98-4b2b-a760-7dceeb3b3521,N,insufficient_funds
 4614,OAC002,Onie Altenwerth,C002,Chips,C,upi,3550,7682.4,2022-08-23,Germany,North Evamouth,hailee.org,0bbe767e-1daf-406a-b80f-eb5371f9e6ec,Y,NA
 4615,CHH001,Casimer Howe,H001,Hat,F,card,2296,2030.1,2022-08-24,Jordan,Adrienfort,autumn.biz,4c1b5498-6075-4d9b-9bcb-b382a95d52d1,Y,NA
-4616,YSK001,Yasmine Swift,K001,Keyboard,E,upi,9336,515.8,2022-08-25,Virgin Islands, U.S.,Windlerstad,8377695d-aab7-4d55-8f2e-24c3fc2ea3a9,Y,NA
+4616,YSK001,Yasmine Swift,K001,Keyboard,E,upi,9336,515.8,2022-08-25,Virgin Islands,Chicago,Windlerstad,8377695d-aab7-4d55-8f2e-24c3fc2ea3a9,Y,NA
 4617,JRS003,Juliet Reichert,S003,Shirt,B,online_banking,4406,2421.8,2022-08-26,Malaysia,Odaport,rebecca.info,57ead22c-96f2-47cc-8958-757c93972f74,Y,NA
 4618,JBB001,Julio Bode,B001,Ball,A,upi,2149,6316.3,2022-08-27,Angola,North Lindsay,camron.name,232922d4-7d6d-40ef-8a9c-5fd6c0aa7a35,Y,NA
 4619,LOP001,Leo Okuneva,P001,Pants,B,upi,3330,7903.9,2022-08-28,Albania,Dickenston,ron.org,f268a770-a6ac-4345-8ae4-15b4a6d2cc6e,N,insufficient_funds
@@ -4792,7 +4792,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4790,MHC005,Maria Hamill,C005,Car,D,online_banking,8849,6239.4,2022-02-15,Uzbekistan,Port Estelle,matilda.net,d047fbf4-ca32-4f8e-867b-2d1a614854cf,N,insufficient_funds
 4791,ATM001,Annetta Terry,M001,Mouse,E,card,1577,530.4,2022-02-16,Christmas Island,Maureenside,maxie.biz,12caa5ea-c33f-4ce4-bfa4-7c1e0c1c4995,Y,NA
 4792,CFS002,Consuelo Fay,S002,Sausages,C,online_banking,9096,7345,2022-02-17,Malawi,New Jaime,hollis.net,09bea49f-af97-485e-b809-9f4a1e4d7a76,Y,NA
-4793,MCC003,Mayra Carter,C003,Cheese,D,upi,5505,9691,2022-02-18,Virgin Islands, British,South Norval,5b62cdfb-596c-454e-a49d-882d28f7d21d,Y,NA
+4793,MCC003,Mayra Carter,C003,Cheese,D,upi,5505,9691,2022-02-18,Virgin Islands,Detroit,South Norval,5b62cdfb-596c-454e-a49d-882d28f7d21d,Y,NA
 4794,JJF001,Jaclyn Jenkins,F001,Fish,B,upi,5827,5260,2022-02-19,Sao Tome and Principe,North Johnnie,adrain.name,5a6c4a4c-ae2b-4fc4-b3c9-ec48097108ee,Y,NA
 4795,HWVC005,Hillary Watsica V,C005,Car,D,online_banking,888,7712,2022-02-20,Republic of Korea,New Marion,nathanael.net,c5190a1f-d679-4f11-ba42-a746428531dc,Y,NA
 4796,ASB002,Adam Schmeler,B002,Bacon,A,upi,7337,3971,2022-02-21,Lithuania,Mrazburgh,ashton.net,b023b34a-b44b-48fc-ba1e-9e74aab6ba1f,N,insufficient_funds
@@ -4847,7 +4847,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 4845,KAS002,Ken Abernathy,S002,Sausages,C,upi,9596,4168.8,2022-04-11,Switzerland,Pollichville,kathleen.biz,9877cc58-2e7e-4e23-9a10-fd8a5ce9771e,Y,NA
 4846,KCC004,Karine Christiansen,C004,Computer,B,online_banking,6048,3215.7,2022-04-12,Vanuatu,Larkinbury,brain.net,d13d766f-7180-41d6-9d2d-834e1511fc16,Y,NA
 4847,MKHS002,Miss Kareem Halvorson,S002,Sausages,C,card,9435,2339.2,2022-04-13,Luxembourg,Lake Rolandobury,maryjane.net,3d3ca8f9-1802-4d87-99ff-7d19395c0c56,Y,NA
-4848,BLH001,Bernice Lehner,H001,Hat,F,upi,3080,2767.9,2022-04-14,Virgin Islands, British,Garettmouth,ebf1f9ee-884f-4ae0-895e-219e30be8714,Y,NA
+4848,BLH001,Bernice Lehner,H001,Hat,F,upi,3080,2767.9,2022-04-14,Virgin Islands,Detroit,Garettmouth,ebf1f9ee-884f-4ae0-895e-219e30be8714,Y,NA
 4849,TLB003,Talon Larson,B003,Bike,F,wallet,1897,9598.4,2022-04-15,Democratic People's Republic of Korea,Guiseppemouth,fabian.net,0bb2bf4b-877a-4992-b08d-37ed83ec6db6,Y,NA
 4850,ZMB001,Zena Miller,B001,Ball,A,online_banking,7868,5157.9,2022-04-16,Italy,Lake Colleen,vincenza.name,349db212-c8ab-4a01-9420-372bc91583fb,N,insufficient_funds
 4851,CHIVG001,Corbin Hirthe IV,G001,Gloves,C,upi,2558,8585.6,2022-04-17,Mali,East Jamie,ransom.com,109c0035-1696-4dde-80e8-61773cc90a06,Y,NA
@@ -5320,7 +5320,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 5318,LHC005,Leanne Heidenreich,C005,Car,D,wallet,7984,2148.7,2022-07-28,Azerbaijan,Schummside,parker.net,d65e496c-48d2-4f51-9cfa-d4d0d9cff8e3,N,wrong_info
 5319,MWOCC001,Mrs. Wilmer O'Connell,C001,Chicken,C,card,5883,6974,2022-07-29,Seychelles,East Eli,bella.biz,72d647fe-a307-4ffc-a31b-1d8b69d28456,Y,NA
 5320,AWF001,Alexane Will,F001,Fish,B,card,896,8042.3,2022-07-30,Cambodia,Rileychester,bradley.org,4a149484-3eec-4a56-bf9a-01627bb07c91,Y,NA
-5321,DLM001,Daphne Lubowitz,M001,Mouse,E,upi,1425,9584.5,2022-07-31,Virgin Islands, British,Ferrytown,2d239e83-c2b9-4589-a56f-82bf1a3da845,N,wrong_info
+5321,DLM001,Daphne Lubowitz,M001,Mouse,E,upi,1425,9584.5,2022-07-31,Virgin Islands,Detroit,Ferrytown,2d239e83-c2b9-4589-a56f-82bf1a3da845,N,wrong_info
 5322,JDB003,Jaquan Dickinson,B003,Bike,F,wallet,925,2177,2022-08-01,Cote d'Ivoire,North Soledadton,sadye.org,8a143e95-4136-4335-af16-04e8a7708e70,N,insufficient_funds
 5323,SJDVMP001,Shayna Jerde DVM,P001,Pants,B,upi,9376,1325.2,2022-08-02,Lesotho,West Doloreshaven,dedrick.org,c9ed011e-9f8c-48a5-b435-9ed1ad48f9f2,N,wrong_info
 5324,WFC004,Weston Farrell,C004,Computer,B,online_banking,2163,577.2,2022-08-03,Norway,Donnellyberg,susanna.biz,715c5311-4cb9-48f1-8fc8-9ff0d337f78b,N,insufficient_funds
@@ -5338,7 +5338,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 5336,BBS002,Bella Bruen,S002,Sausages,C,card,7136,3211.6,2022-08-15,Guinea,East Karellemouth,darryl.info,81611180-2c08-4aef-97eb-62ad886e0674,Y,NA
 5337,LMK001,Loyce Monahan,K001,Keyboard,E,upi,2080,1823.2,2022-08-16,United Kingdom,East Hillardmouth,hermann.biz,ef9ce39a-65c2-4893-b1ca-3d0ca81424ac,N,suspicious_txn
 5338,RLC001,Rashad Langworth,C001,Chicken,C,card,8173,4414.1,2022-08-17,Nepal,Thaliaport,flavio.biz,c111bced-3e1f-40aa-b24a-f9589135b41d,Y,NA
-5339,CHP002,Carissa Hickle,P002,Pizza,F,online_banking,6035,4793.5,2022-08-18,Virgin Islands, British,Lake Sallie,22ac0065-4d50-4b21-9f92-f9502464d5d0,N,suspicious_txn
+5339,CHP002,Carissa Hickle,P002,Pizza,F,online_banking,6035,4793.5,2022-08-18,Virgin Islands,Detroit,Lake Sallie,22ac0065-4d50-4b21-9f92-f9502464d5d0,N,suspicious_txn
 5340,RZC005,Ryleigh Zieme,C005,Car,D,online_banking,2715,9082.5,2022-08-19,Bahrain,Maureenberg,kylee.com,00aed979-e3b5-4fe5-978d-3f16bceb92b9,N,wrong_info
 5341,FHC004,Franz Hintz,C004,Computer,B,card,4188,324.4,2022-08-20,Afghanistan,Reganberg,cecil.name,2d313581-75b1-413c-9815-5d3b0318dd54,Y,NA
 5342,AHB002,Americo Hackett,B002,Bacon,A,upi,9092,5301.8,2022-08-21,Denmark,Lake Magnusstad,jacques.org,f4193269-a9e8-4432-8af3-4a84218b53c5,N,suspicious_txn
@@ -5385,7 +5385,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 5383,NUF001,Newell Upton,F001,Fish,B,online_banking,6939,7654.5,2022-10-01,Sudan,Murphyfort,cheyenne.info,9494660d-2168-483c-b62c-4514cf68bd52,N,suspicious_txn
 5384,MBIIT002,Marques Bogisich II,T002,Table,A,online_banking,4567,5142,2022-10-02,Rwanda,West Alannaside,andres.biz,c0860f1f-31a0-4eb8-879c-b8ab0d3fd55b,N,wrong_info
 5385,LSIIC005,Loren Stroman II,C005,Car,D,upi,3634,5265.8,2022-10-03,Ghana,Amyamouth,marianne.net,de462aa6-df52-4dfb-95f7-58e957121882,Y,NA
-5386,CNC003,Carolyn Nader,C003,Cheese,D,upi,3553,8007.7,2022-10-04,Virgin Islands, British,Port Avery,fa117812-17a6-4243-aeec-b7c29fad971b,Y,NA
+5386,CNC003,Carolyn Nader,C003,Cheese,D,upi,3553,8007.7,2022-10-04,Virgin Islands,Detroit,Port Avery,fa117812-17a6-4243-aeec-b7c29fad971b,Y,NA
 5387,JSC004,Jamal Schmitt,C004,Computer,B,wallet,1651,1493.1,2022-10-05,Mozambique,Woodrowland,cordie.com,d557e754-2015-42a8-a89d-b7af8641146c,N,insufficient_funds
 5388,AHC003,Ardith Hudson,C003,Cheese,D,online_banking,2769,1496.3,2022-10-06,Papua New Guinea,West Larue,gregory.biz,e4608a82-c171-48f1-9f82-46f4dd81cc4f,N,wrong_info
 5389,SWC005,Stewart Walsh,C005,Car,D,online_banking,374,6401.4,2022-10-07,Mauritania,Jaleelberg,julius.net,d4d67433-081f-48b0-9a18-aabde4f9222e,N,wrong_info
@@ -5554,7 +5554,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 5552,EKG001,Etha Kuvalis,G001,Gloves,C,wallet,5706,3434.6,2022-03-19,Norfolk Island,East Preston,rosalind.info,9cd05021-4903-4ab1-ad8e-e9e98ccd6dd1,Y,NA
 5553,LHB003,Leopoldo Hansen,B003,Bike,F,upi,4790,1055.7,2022-03-20,Djibouti,East Samantatown,nicole.info,e4ed1b7a-17b4-4c4d-bff2-df0f26923432,N,wrong_info
 5554,CRF001,Coy Roob,F001,Fish,B,wallet,1882,2268.6,2022-03-21,United Arab Emirates,South Shawn,shania.name,5df60236-059f-43be-9691-ee5fa770b03b,N,wrong_info
-5555,LSS004,Lucas Schroeder,S004,Salad,D,card,4094,3035,2022-03-22,Virgin Islands, British,Kuphalhaven,fe9496f4-8217-41e3-973b-36b21cd040a2,N,suspicious_txn
+5555,LSS004,Lucas Schroeder,S004,Salad,D,card,4094,3035,2022-03-22,Virgin Islands,Detroit,Kuphalhaven,fe9496f4-8217-41e3-973b-36b21cd040a2,N,suspicious_txn
 5556,EMG001,Esteban Mann,G001,Gloves,C,online_banking,4929,8069.3,2022-03-23,Colombia,New Evelyn,caroline.biz,7355e906-b37b-4a7e-8d34-1e6b18ff2bfe,N,wrong_info
 5557,JMH001,Jaylen Marvin,H001,Hat,F,card,362,9858.4,2022-03-24,Democratic People's Republic of Korea,North Jovanymouth,marilie.name,28e3ea16-5d46-4893-adbf-dd9bb4b65ccd,N,insufficient_funds
 5558,RHS005,Rafael Huels,S005,Soap,E,online_banking,1730,2110.5,2022-03-25,Uruguay,South Sarah,dexter.org,29e33d56-a700-4a20-9145-cc8e834db840,N,insufficient_funds
@@ -5901,7 +5901,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 5899,RBG001,Rosemary Bernier,G001,Gloves,C,online_banking,2342,4712.1,2022-03-01,Pitcairn Islands,Sauerstad,eulalia.com,b1b809ef-89ac-42bb-a695-9bebbfd5426b,Y,NA
 5900,SAS003,Soledad Auer,S003,Shirt,B,card,9715,8149.3,2022-03-02,Norway,Lake Reneeside,caleigh.name,1efaeb5c-ce11-4123-bebc-ae4ff7e85854,N,suspicious_txn
 5901,MECP002,Miss Ellie Cormier,P002,Pizza,F,online_banking,2147,5514.8,2022-03-03,Guam,Howebury,kaci.biz,9533dda0-d6a3-4b0f-9f18-b0949c02c158,Y,NA
-5902,AADDSF001,Aglae Ankunding DDS,F001,Fish,B,wallet,8374,9214.2,2022-03-04,Virgin Islands, U.S.,North Erynshire,7ac6d241-5030-42c3-81c4-29eb29617059,Y,NA
+5902,AADDSF001,Aglae Ankunding DDS,F001,Fish,B,wallet,8374,9214.2,2022-03-04,Virgin Islands,Chicago,North Erynshire,7ac6d241-5030-42c3-81c4-29eb29617059,Y,NA
 5903,TLB001,Terrell Lemke,B001,Ball,A,wallet,506,1309.3,2022-03-05,Cameroon,New Aracelifurt,corbin.info,8c659d34-4c44-46b9-b391-62d4ce1b55e6,N,suspicious_txn
 5904,GWT003,Godfrey White,T003,Tuna,F,wallet,8582,9827.9,2022-03-06,Syrian Arab Republic,New Eleanore,salvatore.name,916ae291-be69-4f35-b6ce-aa5e606afc9e,Y,NA
 5905,EBS001,Eveline Botsford,S001,Shoes,A,upi,4123,3784.2,2022-03-07,Slovenia,Bernieton,fletcher.name,b117f3e8-1f75-4f55-8478-7343cd76f160,Y,NA
@@ -6146,7 +6146,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6144,NRC005,Nora Rice,C005,Car,D,online_banking,7328,5101.2,2022-11-01,Switzerland,West Meggie,ismael.net,a45cf119-afbd-4f3c-9935-0594d5758efa,Y,NA
 6145,SNMDG001,Sally Nitzsche MD,G001,Gloves,C,card,9280,6274.1,2022-11-02,United Kingdom,East Elbertburgh,lurline.org,b260c9d7-d279-4472-b291-5994bb89125d,N,wrong_info
 6146,MPGC003,Ms. Priscilla Gulgowski,C003,Cheese,D,wallet,5425,9762.9,2022-11-03,Puerto Rico,Spinkatown,kaley.net,884d2b98-20e7-4b70-9542-7b4290c675d9,Y,NA
-6147,MJDP001,Ms. Josianne Daugherty,P001,Pants,B,wallet,5616,3262.9,2022-11-04,Virgin Islands, U.S.,Arielfort,dcdc0959-7638-4d55-a34b-8a07f435e9ed,N,suspicious_txn
+6147,MJDP001,Ms. Josianne Daugherty,P001,Pants,B,wallet,5616,3262.9,2022-11-04,Virgin Islands,Dallas,Arielfort,dcdc0959-7638-4d55-a34b-8a07f435e9ed,N,suspicious_txn
 6148,SBF001,Shanelle Baumbach,F001,Fish,B,upi,1681,5805.4,2022-11-05,United States Minor Outlying Islands,Predovictown,florian.com,a8b9bb32-41a9-4ebe-9796-bd3bf76ffcb8,Y,NA
 6149,NJK001,Natalia Jaskolski,K001,Keyboard,E,online_banking,5371,8354,2022-11-06,Panama,Martinaland,jerad.name,ac10b644-914c-4b59-90bb-4dac1683a04c,N,wrong_info
 6150,RST003,Reba Shanahan,T003,Tuna,F,upi,7146,3442,2022-11-07,Mayotte,West Araceli,jakob.org,eb49a97e-eb98-41b9-95d4-877ad8743223,N,suspicious_txn
@@ -6195,7 +6195,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6193,HDC004,Hassan Dibbert,C004,Computer,B,card,2564,226.4,2022-12-20,Maldives,Naderfurt,hester.info,4d125bd0-004c-42d3-a8f6-234dfc47d6ff,Y,NA
 6194,MWK001,Maxie Wunsch,K001,Keyboard,E,online_banking,7774,5299.3,2022-12-21,Holy See (Vatican City State),South Maychester,fermin.name,c648dfb5-df8a-45d4-8188-09f035f546e4,Y,NA
 6195,RSC004,Ryleigh Schiller,C004,Computer,B,upi,7085,2923.7,2022-12-22,Botswana,West Marianne,shanie.com,1dc6f421-9f90-480e-b04c-8bfa6363c58e,N,suspicious_txn
-6196,MMSS002,Ms. Mohammed Shanahan,S002,Sausages,C,upi,4134,9751.5,2022-12-23,Virgin Islands, U.S.,South Elysechester,ca1450a9-97bd-4aa2-a550-a9294ebf2e86,Y,NA
+6196,MMSS002,Ms. Mohammed Shanahan,S002,Sausages,C,upi,4134,9751.5,2022-12-23,Virgin Islands,Chicago,South Elysechester,ca1450a9-97bd-4aa2-a550-a9294ebf2e86,Y,NA
 6197,TMC006,Tod Macejkovic,C006,Chair,E,online_banking,9851,6707.3,2022-12-24,Eritrea,Deventon,mason.net,62b684b3-6bb8-44a3-89ef-c0fd62516e14,Y,NA
 6198,GST002,Gavin Senger,T002,Table,A,card,3278,446.6,2022-12-25,Finland,South Asha,sidney.info,91d5cdc5-853d-4210-b4d2-408f29b13758,N,wrong_info
 6199,DHC001,Dannie Hilpert,C001,Chicken,C,card,6010,6734.6,2022-12-26,Saint Helena,East Brianne,marquis.name,3d71b035-46de-4d29-88eb-d7fab6d3b40f,Y,NA
@@ -6409,7 +6409,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6407,BWT003,Berry Walsh,T003,Tuna,F,online_banking,3219,8670,2022-07-22,Bosnia and Herzegovina,New Libbyfurt,alec.name,7947721e-ad3f-4792-9cfc-552ac6f4cf1d,N,suspicious_txn
 6408,MCKF001,Mrs. Catharine Kuhic,F001,Fish,B,online_banking,8957,2591,2022-07-23,Ukraine,Wisozkmouth,brent.org,bd84b13a-049f-4b1c-b82b-92447745add0,N,suspicious_txn
 6409,IHC006,Ila Hyatt,C006,Chair,E,upi,123,7255,2022-07-24,Haiti,Sipesstad,amina.name,7e5a93ef-448a-4485-b7e8-86dfc0a8c1a1,N,suspicious_txn
-6410,ACIB001,Alaina Cremin I,B001,Ball,A,card,2902,3528.6,2022-07-25,Virgin Islands, British,Lake Lerahaven,a1ca579a-b7d9-4be6-8ebf-028fc5616e8d,Y,NA
+6410,ACIB001,Alaina Cremin I,B001,Ball,A,card,2902,3528.6,2022-07-25,Virgin Islands,Chicago,Lake Lerahaven,a1ca579a-b7d9-4be6-8ebf-028fc5616e8d,Y,NA
 6411,DFC005,Deshawn Franecki,C005,Car,D,card,6044,2231.7,2022-07-26,Bhutan,North Torreyview,margret.com,569a63d4-c4b3-4074-aa54-60b741aa3a01,N,insufficient_funds
 6412,TBC004,Thomas Bernhard,C004,Computer,B,upi,5410,3129.3,2022-07-27,Mongolia,Lake Breannamouth,sylvan.net,9fce957f-47f3-4b42-bd6a-2848e839e722,Y,NA
 6413,DJM001,Darby Jacobs,M001,Mouse,E,online_banking,2050,7255.4,2022-07-28,Denmark,Lake Mistyburgh,leonel.info,4c84f79b-7b01-4517-b7b8-7b2cf96129e4,N,suspicious_txn
@@ -6427,7 +6427,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6425,BBC004,Berenice Bartoletti,C004,Computer,B,upi,1318,2609.8,2022-08-09,Holy See (Vatican City State),East Destiny,clotilde.net,8ec3bb6c-1a40-484e-b491-c181df73f11b,N,wrong_info
 6426,JNP001,Johnathan Nitzsche,P001,Pants,B,card,5370,5491.8,2022-08-10,Zambia,South Bianka,leanna.biz,137ef861-0aa1-47bc-b6c3-9cdb892531e4,N,wrong_info
 6427,MPS004,Merle Predovic,S004,Salad,D,online_banking,5225,8119,2022-08-11,El Salvador,Cassandramouth,joel.com,9a0e7fa4-49cd-40d5-b325-55a8adb04ae1,N,insufficient_funds
-6428,JBB002,Jasen Beier,B002,Bacon,A,card,3537,2527.3,2022-08-12,Virgin Islands, British,Lake Winfield,7c8ed416-3527-4634-bae6-815f30b632d6,N,insufficient_funds
+6428,JBB002,Jasen Beier,B002,Bacon,A,card,3537,2527.3,2022-08-12,Virgin Islands,Chicago,Lake Winfield,7c8ed416-3527-4634-bae6-815f30b632d6,N,insufficient_funds
 6429,APT003,Ayden Predovic,T003,Tuna,F,online_banking,9805,8870,2022-08-13,Cook Islands,Lake Brendon,jed.biz,0ab6c9b9-332c-43e6-9791-fba1a710537e,N,insufficient_funds
 6430,NEC002,Norma Emard,C002,Chips,C,upi,8916,5480.4,2022-08-14,Myanmar,Sporerville,tyshawn.biz,19813195-fe39-471c-bc01-7f8729305e2c,Y,NA
 6431,RSIIB001,Roma Schmeler II,B001,Ball,A,upi,7459,5036.2,2022-08-15,Myanmar,North Jaydonfurt,tyrel.net,ce9bb526-fd77-45f0-89d7-58080b64f5ae,Y,NA
@@ -6510,7 +6510,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6508,AKP001,Aida Klocko,P001,Pants,B,upi,6876,2050.3,2022-10-31,Saint Martin,Lake Elwyn,pansy.name,931bf308-7c9c-44a9-9daa-3df91261e3ad,Y,NA
 6509,MVRJB003,Marina VonRueden Jr.,B003,Bike,F,online_banking,4236,7809.4,2022-11-01,Bahrain,East Brisaville,jeanne.info,6ed1ce09-f555-490b-9336-dff03422af3e,Y,NA
 6510,KMS002,Khalid Marvin,S002,Sausages,C,upi,1775,9936.6,2022-11-02,Azerbaijan,East Shaunmouth,broderick.org,670e0dbc-f324-4f32-b441-048454e18097,Y,NA
-6511,FBC003,Freddy Bahringer,C003,Cheese,D,wallet,6499,5070.8,2022-11-03,Virgin Islands, U.S.,South Lucio,e63edd76-61d9-4e61-a3c5-c46339f12019,N,wrong_info
+6511,FBC003,Freddy Bahringer,C003,Cheese,D,wallet,6499,5070.8,2022-11-03,Virgin Islands,Dallas,South Lucio,e63edd76-61d9-4e61-a3c5-c46339f12019,N,wrong_info
 6512,BWB001,Brook Wilderman,B001,Ball,A,card,9065,8303,2022-11-04,Grenada,South Freddy,lorenzo.org,0a7c2970-c02a-4909-96cb-b68221c4fd8b,Y,NA
 6513,VMS005,Velma Mraz,S005,Soap,E,card,7403,8764.1,2022-11-05,Uruguay,Malloryview,juanita.com,f96161af-855f-42a2-b7ad-7f08ba1854ed,N,suspicious_txn
 6514,ASH001,April Schoen,H001,Hat,F,upi,5781,6526,2022-11-06,Guadeloupe,New Maximiliantown,aurelia.biz,8fd2fad3-3b6e-4781-a668-d7e277629b87,Y,NA
@@ -6640,7 +6640,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6638,KCC001,Kane Collins,C001,Chicken,C,card,5730,1948.2,2022-03-10,Turkmenistan,West Bobbiebury,ronny.org,aa46b7c1-164e-4ce5-b38b-f11d0162bfa2,N,wrong_info
 6639,IWS005,Idell Wunsch,S005,Soap,E,card,2725,6754.7,2022-03-11,Guinea-Bissau,Paigemouth,johnpaul.org,17de2b7d-da83-4835-bdc4-9155c5f8a2b2,N,suspicious_txn
 6640,IAH001,Ismael Abshire,H001,Hat,F,upi,2523,1556.8,2022-03-12,Afghanistan,Swiftstad,carmela.info,b21ea0f7-26b5-4c57-a54f-e24421a80bab,Y,NA
-6641,MKLF001,Ms. Karlee Legros,F001,Fish,B,upi,5250,6775.8,2022-03-13,Virgin Islands, British,Delilahfort,458728fc-43a4-4010-bf75-ab5e9a2d8713,N,wrong_info
+6641,MKLF001,Ms. Karlee Legros,F001,Fish,B,upi,5250,6775.8,2022-03-13,Virgin Islands,Detroit,Delilahfort,458728fc-43a4-4010-bf75-ab5e9a2d8713,N,wrong_info
 6642,TMLT002,Thea McLaughlin,T002,Table,A,online_banking,1086,7707.2,2022-03-14,Slovakia (Slovak Republic),North Casandrafort,easter.name,80bdbde4-12cd-4ee2-bf23-8edfffa9bac7,Y,NA
 6643,LBPDS002,Liliana Blanda PhD,S002,Sausages,C,wallet,3580,9152.5,2022-03-15,Nauru,West Clifton,eric.com,26498d4f-dd3b-4ca3-8cd2-709d06cc4fd8,N,wrong_info
 6644,DSH001,Demario Sauer,H001,Hat,F,online_banking,8211,3652.4,2022-03-16,Mauritania,Christianafort,velda.org,e0c5979b-886b-4299-b216-809ae8e008d4,Y,NA
@@ -6858,7 +6858,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 6856,SLS002,Sigmund Lowe,S002,Sausages,C,upi,8714,9022.9,2022-10-14,Guinea-Bissau,Borerfort,buck.biz,e9a61428-136b-4f95-b90e-1c8295e03577,N,insufficient_funds
 6857,AFK001,Ahmad Feil,K001,Keyboard,E,online_banking,6911,9625.6,2022-10-15,Greece,Franeckiview,santa.name,0ed97701-65c3-4195-85ca-ba3db74cdbc1,N,suspicious_txn
 6858,DHS004,Donato Harber,S004,Salad,D,wallet,9933,7957.8,2022-10-16,Malaysia,East Jazlyn,adaline.name,faf70c83-0390-4176-b855-288c908fb458,N,insufficient_funds
-6859,MRBS004,Ms. Rosemarie Bode,S004,Salad,D,wallet,8881,2436.9,2022-10-17,Virgin Islands, British,Tyresestad,c3043c2c-78c1-4a5d-ac31-5ca1e005320e,Y,NA
+6859,MRBS004,Ms. Rosemarie Bode,S004,Salad,D,wallet,8881,2436.9,2022-10-17,Virgin Islands,Detroit,Tyresestad,c3043c2c-78c1-4a5d-ac31-5ca1e005320e,Y,NA
 6860,DMS001,D'angelo Murray,S001,Shoes,A,online_banking,9877,2221.2,2022-10-18,Gibraltar,Spencermouth,faye.biz,774ad138-982f-4ce8-9607-84f3208ff2fa,N,suspicious_txn
 6861,MKS002,Manuel Kiehn,S002,Sausages,C,online_banking,3218,7940.6,2022-10-19,United States Minor Outlying Islands,Romaineville,christy.info,b9d6247f-c482-40b3-a226-ee41b1e54b1a,Y,NA
 6862,CWIIIS002,Clare Wolff III,S002,Sausages,C,online_banking,3285,7793.2,2022-10-20,Greenland,Diamondshire,mandy.net,8f76d21c-03ed-4031-85fb-1089ded2c2dd,N,insufficient_funds
@@ -7064,7 +7064,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 7062,SHG001,Selina Hand,G001,Gloves,C,upi,9783,2649.4,2022-05-08,Ireland,Kihnbury,leann.info,fac946d2-9260-4202-9bba-66300831f3fd,Y,NA
 7063,BRP002,Bessie Reichel,P002,Pizza,F,wallet,1903,5727.9,2022-05-09,Luxembourg,East Vedafort,ron.net,f079e8f5-024a-419d-9942-20047b580802,N,suspicious_txn
 7064,LFVS002,Luciano Fisher V,S002,Sausages,C,wallet,7590,7404.9,2022-05-10,Sri Lanka,New Yoshikoburgh,melody.net,607e0642-7097-4ca7-b5ce-966e8b149400,N,wrong_info
-7065,MPS005,Malcolm Pacocha,S005,Soap,E,online_banking,8722,1473.5,2022-05-11,Virgin Islands, U.S.,Evanmouth,b64457c5-325a-4851-8c7a-cc93ce11a337,N,suspicious_txn
+7065,MPS005,Malcolm Pacocha,S005,Soap,E,online_banking,8722,1473.5,2022-05-11,Virgin Islands,Dallas,Evanmouth,b64457c5-325a-4851-8c7a-cc93ce11a337,N,suspicious_txn
 7066,MBSP002,Mr. Breana Strosin,P002,Pizza,F,wallet,8603,5995.1,2022-05-12,Timor-Leste,Langworthside,beulah.biz,487bb1f5-9bb0-4fde-a17a-a3e3ed854f4e,Y,NA
 7067,KDIIIP001,Kenyon Dickinson III,P001,Pants,B,online_banking,6509,3979,2022-05-13,Kuwait,Lake Nicole,velma.name,361b68be-4f84-4188-af94-aeb11fe9ee5d,N,suspicious_txn
 7068,VWT001,Victoria Wisoky,T001,Towels,D,wallet,5090,7060.1,2022-05-14,Ghana,Autumnport,jannie.com,2e1ccac9-1b0f-46e8-9737-9fa6413e35a2,N,wrong_info
@@ -7217,7 +7217,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 7215,DTC005,Dandre Trantow,C005,Car,D,online_banking,93,9711.4,2022-10-08,Denmark,Marisashire,verda.net,75c09365-4ba9-4f8a-b942-5aa3959041bf,N,suspicious_txn
 7216,DMC003,Devyn Murphy,C003,Cheese,D,upi,3404,7417.7,2022-10-09,Namibia,South Deborahchester,chauncey.com,fc02dadf-c2ce-492c-be38-64996f99bc3e,Y,NA
 7217,RKP002,Rocky Kling,P002,Pizza,F,online_banking,3908,5523.4,2022-10-10,Montserrat,Hubertville,reina.com,3f4b8649-195b-4563-a0ff-7f63e05f81c8,N,wrong_info
-7218,MHK001,Myrtle Herzog,K001,Keyboard,E,online_banking,7571,8672.4,2022-10-11,Virgin Islands, British,Kertzmannborough,b43f5a52-ffb3-46d3-979d-aa8e972d8ecd,Y,NA
+7218,MHK001,Myrtle Herzog,K001,Keyboard,E,online_banking,7571,8672.4,2022-10-11,Virgin Islands,Chicago,Kertzmannborough,b43f5a52-ffb3-46d3-979d-aa8e972d8ecd,Y,NA
 7219,HWT001,Hermann Waelchi,T001,Towels,D,wallet,3117,6663,2022-10-12,Niger,Hildachester,garrison.net,9190a0b5-976d-4f74-91d3-5a535cabdb56,N,insufficient_funds
 7220,BRC005,Berneice Ritchie,C005,Car,D,upi,5221,8362.5,2022-10-13,Mexico,Alshire,lucas.org,e42c4735-18a0-4735-a781-785c1702e348,N,suspicious_txn
 7221,MKC003,Maude Kirlin,C003,Cheese,D,card,1839,3211.2,2022-10-14,Democratic People's Republic of Korea,Judymouth,freeda.name,97ae1d91-61b0-4630-b162-14e711d2b43b,N,insufficient_funds
@@ -7303,7 +7303,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 7301,MGP001,Mitchell Goodwin,P001,Pants,B,card,3906,8217.6,2022-01-02,Pakistan,Uptonfurt,sister.info,ca5788e4-3550-4824-981a-72aaa2ce3554,Y,NA
 7302,LRVC005,Lavina Rodriguez V,C005,Car,D,wallet,3256,104.8,2022-01-03,Panama,North Liana,loren.biz,0bb9e549-4954-4550-8ecd-c942fa3c681b,N,insufficient_funds
 7303,ABC001,Angel Beatty,C001,Chicken,C,card,5009,2952.1,2022-01-04,Cape Verde,Weissnatborough,devyn.info,692dda3c-5896-4d37-8673-4fbd65293889,N,wrong_info
-7304,BBK001,Bret Bechtelar,K001,Keyboard,E,upi,5893,4497.9,2022-01-05,Virgin Islands, British,South Marlon,d80419d0-2206-4cdc-a1c6-2b5d6ae137bf,Y,NA
+7304,BBK001,Bret Bechtelar,K001,Keyboard,E,upi,5893,4497.9,2022-01-05,Virgin Islands,Chicago,South Marlon,d80419d0-2206-4cdc-a1c6-2b5d6ae137bf,Y,NA
 7305,ABT003,Angelita Bosco,T003,Tuna,F,upi,8567,6304,2022-01-06,Macedonia,Lake Jaunita,ana.info,8e4d6de6-cd3e-4391-b3c0-eb4432b05558,Y,NA
 7306,LFB001,Lempi Fadel,B001,Ball,A,wallet,87,4935.5,2022-01-07,Antarctica (the territory South of 60 deg S),South Eulaliaview,serena.biz,2885eeb5-4c3b-4583-aeff-34017ca41241,Y,NA
 7307,TGC001,Travis Gerhold,C001,Chicken,C,online_banking,3434,3830.6,2022-01-08,Indonesia,Carrollmouth,anita.info,2f5f88c7-dbea-4728-b9c9-3c515e530f3c,Y,NA
@@ -7326,7 +7326,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 7324,ZHS005,Zander Herman,S005,Soap,E,card,4972,4678.8,2022-01-25,Tonga,Janfort,golden.info,4ad589b3-659e-4e37-a347-5ac3b0d5d6b6,N,wrong_info
 7325,CLP001,Cruz Labadie,P001,Pants,B,card,1471,518.6,2022-01-26,Mongolia,West Arnoldmouth,kade.net,2a551c5e-4a6b-45ec-bfb1-2939825225ab,Y,NA
 7326,MDSC003,Miss Dave Swaniawski,C003,Cheese,D,upi,2241,6641.4,2022-01-27,Zambia,West Elmoreview,elinore.info,46b727b3-9dc3-42c2-8f82-16a9485b4e84,Y,NA
-7327,TKC005,Thomas Klocko,C005,Car,D,online_banking,9310,4497.8,2022-01-28,Virgin Islands, U.S.,Conroyfort,590415e1-b59b-4502-b63e-66c08f163e27,Y,NA
+7327,TKC005,Thomas Klocko,C005,Car,D,online_banking,9310,4497.8,2022-01-28,Virgin Islands,Chicago,Conroyfort,590415e1-b59b-4502-b63e-66c08f163e27,Y,NA
 7328,LHT003,Leif Hudson,T003,Tuna,F,upi,8868,5782.8,2022-01-29,Niue,Lake Jarrett,leilani.biz,806625e4-f7aa-49bc-8297-48ec53d467a1,Y,NA
 7329,EHC001,Emery Heller,C001,Chicken,C,card,8120,113.1,2022-01-30,Egypt,North Catharine,ruthie.info,604790b6-282d-4d76-9f4d-f22825c9d50d,N,insufficient_funds
 7330,VBF001,Vivian Buckridge,F001,Fish,B,upi,3101,8417.8,2022-01-31,Bolivia,East Robbieburgh,murphy.info,dca184f8-ea69-488a-8da9-b5fda7d7d0de,Y,NA
@@ -7661,7 +7661,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 7659,MSDVMC001,Maudie Swift DVM,C001,Chicken,C,upi,1600,5394.1,2022-12-26,Northern Mariana Islands,South Beatricebury,dock.biz,eb0510f9-cd40-4b93-9bce-37ced24c6da4,Y,NA
 7660,RKP001,Retha Koepp,P001,Pants,B,card,2758,2623.7,2022-12-27,Honduras,Danieltown,triston.info,9cb0cad9-ddb3-49a1-a558-4d2d9a020fde,N,wrong_info
 7661,KWC005,Katelyn Wyman,C005,Car,D,online_banking,792,4421.7,2022-12-28,Niue,Bartolettiberg,mara.com,2b9335ea-49f1-4915-ae7b-7acb72124a57,Y,NA
-7662,IVC005,Isac Veum,C005,Car,D,card,20,7267.5,2022-12-29,Virgin Islands, U.S.,New Mark,49c21fa9-0c52-4ac1-8cd3-b7b842652675,Y,NA
+7662,IVC005,Isac Veum,C005,Car,D,card,20,7267.5,2022-12-29,Virgin Islands,Dallas,New Mark,49c21fa9-0c52-4ac1-8cd3-b7b842652675,Y,NA
 7663,MGSC001,Ms. Gerry Schulist,C001,Chicken,C,wallet,3662,7942.8,2022-12-30,Thailand,Lake Shanel,flo.info,f8472caf-877f-49db-a8c9-6a42ea3b06a0,N,wrong_info
 7664,KLF001,Kendra Lubowitz,F001,Fish,B,wallet,2278,1808.3,2022-12-31,Mozambique,Bryonfurt,avery.biz,44a141f2-2b2f-46a8-8168-c6b4fb9443f2,N,suspicious_txn
 7665,APJT002,Angela Price Jr.,T002,Table,A,card,67,1925.4,2022-01-01,Andorra,Monserratemouth,keshaun.biz,29bc8843-b030-4994-a967-0a6c314b727a,N,wrong_info
@@ -7809,7 +7809,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 7807,DRC004,Daphnee Runte,C004,Computer,B,wallet,7896,4757.8,2022-05-23,Aruba,Adamsfort,savanna.com,3a1c96aa-9f02-4c7a-a6d4-f9e4ed977acc,Y,NA
 7808,KHB001,Kellie Heaney,B001,Ball,A,online_banking,5563,1941,2022-05-24,Iceland,East Romaine,mariano.biz,9512ad0b-80a8-4a99-8181-4571cb529187,Y,NA
 7809,CPB001,Colten Paucek,B001,Ball,A,upi,4161,7836.5,2022-05-25,Panama,Rodriguezburgh,jayne.com,892e3685-458f-40b8-a06d-2018162ad809,N,insufficient_funds
-7810,POKS004,Preston O'Keefe,S004,Salad,D,wallet,7342,4890.5,2022-05-26,Virgin Islands, British,New Deionside,9f3fb42f-8e28-4719-bc3b-0c007e7714b1,N,suspicious_txn
+7810,POKS004,Preston O'Keefe,S004,Salad,D,wallet,7342,4890.5,2022-05-26,Virgin Islands,Detroit,New Deionside,9f3fb42f-8e28-4719-bc3b-0c007e7714b1,N,suspicious_txn
 7811,ELP001,Ewell Lakin,P001,Pants,B,wallet,3312,8214,2022-05-27,Thailand,Zemlaktown,miles.biz,5d22a791-a650-4982-b6cd-e632a3951728,Y,NA
 7812,AZB001,Autumn Zemlak,B001,Ball,A,card,9426,9086.1,2022-05-28,Bangladesh,North Brayanshire,alivia.info,9ef08c24-9b55-4dea-a562-d9c4f6e283fb,Y,NA
 7813,FBS003,Francisco Brekke,S003,Shirt,B,wallet,9482,2805.1,2022-05-29,Montserrat,Port Shany,sophia.org,afc8fe93-a427-4db0-972e-9dbfadacb5a5,N,suspicious_txn
@@ -8003,7 +8003,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 8001,AJS001,Antonietta Jaskolski,S001,Shoes,A,card,5384,6769,2022-12-03,Antarctica (the territory South of 60 deg S),Schneiderland,malcolm.info,d4037d2e-3bf9-4076-9d8c-0e32abe85c70,Y,NA
 8002,TWIVS003,Terrance Weber IV,S003,Shirt,B,online_banking,1051,7745.1,2022-12-04,Cape Verde,Lake Samsonmouth,jakayla.net,ce0663ea-f110-458e-9409-ae728c15d799,N,insufficient_funds
 8003,CNVF001,Citlalli Nolan V,F001,Fish,B,online_banking,1696,7464.4,2022-12-05,Suriname,East Patience,anne.info,c97cf7c8-c394-453c-a312-34382ffbad1c,Y,NA
-8004,TRMDS005,Tracey Renner MD,S005,Soap,E,card,7881,3190.6,2022-12-06,Virgin Islands, U.S.,Port Axelview,369eda3a-3ac0-44c6-b561-d76d07994b65,N,insufficient_funds
+8004,TRMDS005,Tracey Renner MD,S005,Soap,E,card,7881,3190.6,2022-12-06,Virgin Islands,Dallas,Port Axelview,369eda3a-3ac0-44c6-b561-d76d07994b65,N,insufficient_funds
 8005,ASSS003,Audie Schmeler Sr.,S003,Shirt,B,upi,8442,2339.7,2022-12-07,Malaysia,Okunevamouth,annette.org,9f22a340-06e7-4339-becd-ab38449a27e4,N,suspicious_txn
 8006,DZEC003,Dr. Zena Ernser,C003,Cheese,D,card,5727,3350.6,2022-12-08,Sierra Leone,Vinceton,clara.info,bd031638-52ad-4486-8ab9-8bed08713c0b,Y,NA
 8007,FJC003,Frankie Jakubowski,C003,Cheese,D,card,6792,2910.4,2022-12-09,Grenada,West Antoinette,michele.info,69c2c39c-d394-41fc-8f01-370cc97b04db,N,insufficient_funds
@@ -8026,7 +8026,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 8024,ABP002,Abraham Beatty,P002,Pizza,F,online_banking,3993,2684.7,2022-12-26,India,Demondstad,emmett.com,2a9165e7-65e1-4c0a-ac95-938b0c306db3,N,suspicious_txn
 8025,DGS002,Dawson Gaylord,S002,Sausages,C,upi,5468,2424.4,2022-12-27,Republic of Korea,Lake Braxtonfurt,maryjane.name,efcb082f-9434-48c5-95e6-1970a54d8e6f,Y,NA
 8026,EHC003,Eve Hackett,C003,Cheese,D,online_banking,8161,2199.8,2022-12-28,Jordan,Maxinechester,maverick.net,c9cf802a-2080-43b5-94fe-99e3ad7e28fb,N,insufficient_funds
-8027,BWP001,Bailee Williamson,P001,Pants,B,online_banking,182,9046.9,2022-12-29,Virgin Islands, British,Koryfurt,7b51382c-0c4a-42a9-923f-f6247d0d6931,N,suspicious_txn
+8027,BWP001,Bailee Williamson,P001,Pants,B,online_banking,182,9046.9,2022-12-29,Virgin Islands,Detroit,Koryfurt,7b51382c-0c4a-42a9-923f-f6247d0d6931,N,suspicious_txn
 8028,RFT002,Ricardo Fritsch,T002,Table,A,wallet,3220,3013.6,2022-12-30,Poland,Lake Jaquelin,name.biz,af55a76c-2b28-44c6-8789-28ada0eeabcc,N,suspicious_txn
 8029,GEP002,Gabe Emmerich,P002,Pizza,F,card,2709,9122.3,2022-12-31,Belize,Port Baylee,braden.info,996a6a31-6d89-4c33-be9c-30d89a22875b,N,insufficient_funds
 8030,ADBDDSB002,Alfonzo DuBuque DDS,B002,Bacon,A,wallet,8137,6471.4,2022-01-01,Belgium,Carmineland,donavon.com,51b181b6-6db2-4f8d-a697-513e840172c9,N,suspicious_txn
@@ -8638,7 +8638,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 8636,LLK001,Luna Little,K001,Keyboard,E,card,6138,6216.3,2022-08-30,Northern Mariana Islands,East Emilemouth,fletcher.com,73517965-e3bb-407e-b8d5-9a8647d1309f,N,wrong_info
 8637,ADAS001,Abner D'Amore,S001,Shoes,A,online_banking,5968,2720.1,2022-08-31,Saint Lucia,East Koreyfurt,aurelia.org,56672d50-6579-4663-8a31-c84f96328430,Y,NA
 8638,EGIIIC002,Ettie Gerlach III,C002,Chips,C,card,8110,7630.1,2022-09-01,Lesotho,Vitaland,jane.info,b20ac819-abcf-4091-92b4-37f77ee6a2b5,N,wrong_info
-8639,DABK001,Dr. Armando Brown,K001,Keyboard,E,card,1845,5561.1,2022-09-02,Virgin Islands, British,East Eleonoreshire,1f241ea3-c937-4b2a-a05c-c103008a530a,Y,NA
+8639,DABK001,Dr. Armando Brown,K001,Keyboard,E,card,1845,5561.1,2022-09-02,Virgin Islands,Detroit,East Eleonoreshire,1f241ea3-c937-4b2a-a05c-c103008a530a,Y,NA
 8640,LHG001,Llewellyn Heathcote,G001,Gloves,C,card,7633,174.6,2022-09-03,Honduras,West Jedidiahfurt,breanna.name,13716c26-7272-48b7-80ab-065970d7b6f6,Y,NA
 8641,MSBC003,Ms. Shemar Barrows,C003,Cheese,D,wallet,2915,9201.3,2022-09-04,Zambia,South Reid,buck.com,6abcb517-6c49-47a6-90bf-f90588d225e2,N,wrong_info
 8642,KTT003,Kelli Thompson,T003,Tuna,F,card,9509,114.7,2022-09-05,Egypt,North Rhiannon,aletha.biz,210d06b8-acfa-4696-b27d-92dcf308ee51,Y,NA
@@ -8658,7 +8658,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 8656,ABC001,Alexa Bergstrom,C001,Chicken,C,upi,4476,3580.1,2022-09-19,Antarctica (the territory South of 60 deg S),New Vicenteland,donavon.com,13ed7f96-1908-476a-a69f-064942badd48,Y,NA
 8657,AEH001,Alyce Emmerich,H001,Hat,F,card,5157,807.1,2022-09-20,Antarctica (the territory South of 60 deg S),Dionhaven,mercedes.biz,c70ce255-5758-4e66-8e6d-e2ad501a633d,N,suspicious_txn
 8658,AAK001,Albertha Ankunding,K001,Keyboard,E,online_banking,2390,9107,2022-09-21,Turkmenistan,Port Shayleeberg,rylan.info,2ada98da-f488-4f3b-903e-0244b6da688f,N,suspicious_txn
-8659,VLDVMS003,Veda Lynch DVM,S003,Shirt,B,wallet,8781,799.3,2022-09-22,Virgin Islands, U.S.,East Mariahfurt,bd695dc8-00a0-4dfe-a258-b79f02fb6017,N,suspicious_txn
+8659,VLDVMS003,Veda Lynch DVM,S003,Shirt,B,wallet,8781,799.3,2022-09-22,Virgin Islands,Dallas,East Mariahfurt,bd695dc8-00a0-4dfe-a258-b79f02fb6017,N,suspicious_txn
 8660,GOHC002,Gladyce O'Hara,C002,Chips,C,online_banking,6897,5043.8,2022-09-23,French Southern Territories,Port Efrain,dejah.net,37cd4cef-82f1-4175-8107-5ee8eaf5d235,Y,NA
 8661,GRH001,Graham Ritchie,H001,Hat,F,wallet,3800,574.1,2022-09-24,Syrian Arab Republic,Frankland,jaquan.name,b82e3179-e669-4ced-bbfd-8e7b6a112c1a,N,wrong_info
 8662,SHB001,Sincere Hagenes,B001,Ball,A,upi,8359,3570.8,2022-09-25,Peru,Rosalynshire,alexa.name,6d374708-2a9c-47af-b1e4-05e86e52c521,N,insufficient_funds
@@ -8706,7 +8706,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 8704,AWIIS001,Allen Witting II,S001,Shoes,A,upi,326,4672.7,2022-11-06,Turks and Caicos Islands,Sincereland,jonatan.com,414817be-42d0-4a1c-8972-693bd5b31ee1,N,wrong_info
 8705,MCDB002,Mrs. Caden Dickinson,B002,Bacon,A,wallet,8586,1624.3,2022-11-07,Andorra,West Jasen,allison.net,8a43ffd0-bbaf-4320-986e-357482655150,N,suspicious_txn
 8706,DBS001,Dalton Blanda,S001,Shoes,A,wallet,2361,3665.5,2022-11-08,Gabon,Port Luisbury,janick.org,215e7312-e667-4f1d-b138-eb2fc06062ea,Y,NA
-8707,NST002,Nat Stark,T002,Table,A,wallet,3361,3020.9,2022-11-09,Virgin Islands, U.S.,O'Connellton,59deb006-9b70-44c3-b07d-9329e3abe503,N,wrong_info
+8707,NST002,Nat Stark,T002,Table,A,wallet,3361,3020.9,2022-11-09,Virgin Islands,Chicago,O'Connellton,59deb006-9b70-44c3-b07d-9329e3abe503,N,wrong_info
 8708,DTG001,Devin Thompson,G001,Gloves,C,wallet,9780,2203.4,2022-11-10,France,East Albertomouth,kirk.name,e1c834de-1564-442d-9a92-0aa670390859,N,insufficient_funds
 8709,PGP002,Perry Glover,P002,Pizza,F,upi,4358,4602.7,2022-11-11,Fiji,Sawayntown,lucie.org,476c5f40-0962-4d2c-8bba-738817ed5875,N,wrong_info
 8710,IHB003,Isobel Hilll,B003,Bike,F,upi,7499,2008.9,2022-11-12,Ethiopia,Johnport,kavon.info,cc83bef4-f976-4ca7-ad2b-aa5164755cad,N,wrong_info
@@ -8987,7 +8987,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 8985,DDHC003,Dr. Dina Hackett,C003,Cheese,D,card,6090,5202.7,2022-08-14,Bahamas,Uriahton,corrine.info,0148d65a-6007-417f-bc1e-9ae5d24b4ca7,N,insufficient_funds
 8986,BWK001,Bulah Wehner,K001,Keyboard,E,wallet,7152,5750.1,2022-08-15,Moldova,Ludiemouth,mavis.name,2733b181-9519-4a1e-ae64-ae9faad6f63e,Y,NA
 8987,OCB003,Orpha Conroy,B003,Bike,F,online_banking,6229,9783.5,2022-08-16,Timor-Leste,Larkinfort,rosalind.com,5c7244ed-474e-4d22-8b9c-ff09df2db4fd,N,insufficient_funds
-8988,MLCT001,Mr. Lila Conroy,T001,Towels,D,online_banking,2963,3083.3,2022-08-17,Virgin Islands, U.S.,South Walterview,cff8ac17-b3c2-4baa-a984-c0395bf18052,N,insufficient_funds
+8988,MLCT001,Mr. Lila Conroy,T001,Towels,D,online_banking,2963,3083.3,2022-08-17,Virgin Islands,Dallas,South Walterview,cff8ac17-b3c2-4baa-a984-c0395bf18052,N,insufficient_funds
 8989,DST003,Duncan Schmeler,T003,Tuna,F,online_banking,6632,3560.2,2022-08-18,Qatar,North Joshua,yadira.info,b25bb19b-ec19-4a10-8787-72f953c6e5c6,N,insufficient_funds
 8990,GST003,Genoveva Schmidt,T003,Tuna,F,wallet,9748,4282.4,2022-08-19,Tunisia,Wardborough,jazmyn.info,73462bd3-221e-4611-b309-e8792a62bd6d,N,insufficient_funds
 8991,DJM001,Devin Jones,M001,Mouse,E,wallet,8207,8023,2022-08-20,Guam,Lake Rosina,amara.com,cf70af4f-c84e-480f-84ba-cff12d5a3382,Y,NA
@@ -9177,7 +9177,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9175,ZHC004,Zachariah Hills,C004,Computer,B,upi,8400,7284.9,2022-02-20,New Caledonia,Nolaview,benny.name,d00a9c36-3069-4beb-9e00-964a79beae40,Y,NA
 9176,BPC004,Bridgette Pouros,C004,Computer,B,online_banking,4848,1050.2,2022-02-21,Ecuador,New Josianeborough,tavares.info,07c2c8d4-722c-4d8d-9695-b06a319bd1f2,N,insufficient_funds
 9177,NNB003,Nettie Nitzsche,B003,Bike,F,wallet,6249,5700,2022-02-22,Grenada,Kacieberg,forrest.info,2c1f398f-b136-4813-a7e6-1e37e2dcdea9,Y,NA
-9178,SWS001,Shawna Willms,S001,Shoes,A,wallet,267,2132.5,2022-02-23,Virgin Islands, British,Kuvalisborough,2a3313f7-ef61-4aa7-bc0f-157a762afd87,Y,NA
+9178,SWS001,Shawna Willms,S001,Shoes,A,wallet,267,2132.5,2022-02-23,Virgin Islands,Detroit,Kuvalisborough,2a3313f7-ef61-4aa7-bc0f-157a762afd87,Y,NA
 9179,FSC003,Fredrick Schmitt,C003,Cheese,D,online_banking,7892,8530.4,2022-02-24,Taiwan,Flavieland,brandyn.org,9dbe81aa-15aa-4e89-8412-93fc59274ec9,Y,NA
 9180,DTG001,Dave Tremblay,G001,Gloves,C,online_banking,238,3572.1,2022-02-25,Tonga,Ryleymouth,nelson.net,7dbc73e0-0050-45c8-be13-346f0a8bd6ca,Y,NA
 9181,RKM001,Reba Koss,M001,Mouse,E,online_banking,851,7814.3,2022-02-26,Djibouti,West Elena,shany.com,181f83d8-4aad-4f2c-849b-2aab6c34f61c,N,wrong_info
@@ -9291,7 +9291,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9289,SFH001,Scotty Frami,H001,Hat,F,wallet,952,5208.8,2022-06-14,Western Sahara,Port Karina,thurman.info,bfe903b6-d35f-4370-9d9e-5fe8c7332437,Y,NA
 9290,JCS004,Janis Cole,S004,Salad,D,wallet,7227,9242.9,2022-06-15,Uruguay,Rennerbury,beverly.info,b42fa73f-50c0-491f-ab39-49151a175f94,Y,NA
 9291,NDAM001,Naomi D'Amore,M001,Mouse,E,wallet,2655,9108.1,2022-06-16,Kyrgyz Republic,Hoseachester,nikita.net,1bbe66ea-e833-467a-933a-323ff1c3dd03,Y,NA
-9292,CDS001,Connor Dach,S001,Shoes,A,upi,4663,3520.4,2022-06-17,Virgin Islands, British,Gloverbury,217218bb-f961-4b0c-a49d-dbf7f6d3c90f,N,insufficient_funds
+9292,CDS001,Connor Dach,S001,Shoes,A,upi,4663,3520.4,2022-06-17,Virgin Islands,Chicago,Gloverbury,217218bb-f961-4b0c-a49d-dbf7f6d3c90f,N,insufficient_funds
 9293,LTS003,Leatha Turner,S003,Shirt,B,online_banking,973,6113.7,2022-06-18,Norfolk Island,Stokesport,shania.info,6bc03c29-3285-4103-9416-967937435c76,Y,NA
 9294,JOS003,Jillian Osinski,S003,Shirt,B,upi,4248,2894,2022-06-19,Vanuatu,New Queeniemouth,guiseppe.info,6429f23a-fbcb-41d3-91d7-f853f28e493d,N,suspicious_txn
 9295,KBT001,Kathleen Bode,T001,Towels,D,card,2605,8287.8,2022-06-20,Yemen,West Van,alene.com,8f0a81f9-590f-486e-bde6-c9f303c16be1,Y,NA
@@ -9301,7 +9301,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9299,JGG001,Joe Graham,G001,Gloves,C,online_banking,2218,5968.3,2022-06-24,Dominican Republic,East Kentonhaven,trevion.name,43d2d3c0-8e05-4ae5-aebc-beecabd74f5c,Y,NA
 9300,LGS003,Lea Grant,S003,Shirt,B,upi,267,3512.9,2022-06-25,Australia,Port Berrytown,treva.info,f7dfd96e-8858-419b-9a1f-3aee31554fcd,N,suspicious_txn
 9301,HDB001,Howard Dietrich,B001,Ball,A,wallet,1644,9203.4,2022-06-26,India,MacGyverburgh,jeromy.net,82901a29-de78-4a60-b84e-2ec1fcec3f71,Y,NA
-9302,QJG001,Queen Jenkins,G001,Gloves,C,card,1522,9874.9,2022-06-27,Virgin Islands, U.S.,East Charleneshire,efd49ab4-36a7-4c38-8e0a-cf4246798cde,N,insufficient_funds
+9302,QJG001,Queen Jenkins,G001,Gloves,C,card,1522,9874.9,2022-06-27,Virgin Islands,Dallas,East Charleneshire,efd49ab4-36a7-4c38-8e0a-cf4246798cde,N,insufficient_funds
 9303,KMCF001,Kennedi McClure,F001,Fish,B,wallet,7040,1549.6,2022-06-28,Eritrea,Raulborough,devon.net,15c84510-8e51-4de5-be50-a4f029b261c9,N,suspicious_txn
 9304,DHB003,Davion Hyatt,B003,Bike,F,online_banking,625,9733.3,2022-06-29,Somalia,South Brielle,rashawn.com,3a28befb-6c07-4a26-8587-b735b71ebd14,N,wrong_info
 9305,RDS004,Rupert Donnelly,S004,Salad,D,upi,3183,4004,2022-06-30,Venezuela,Arelymouth,ivory.info,e4643309-35e2-4f87-97b5-653aed6f2b7c,N,suspicious_txn
@@ -9427,7 +9427,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9425,TVP002,Thomas Von,P002,Pizza,F,wallet,3371,8498.4,2022-10-28,Guinea,Port Mathewbury,queenie.biz,a52b82b9-690e-4cb2-83a2-acaeec37e485,N,wrong_info
 9426,NSP001,Nicholaus Schmidt,P001,Pants,B,online_banking,357,495.6,2022-10-29,Gabon,Hagenestown,darron.name,27aec74f-4adb-4852-8809-30bdc1d23938,N,suspicious_txn
 9427,LKC004,Louvenia Kemmer,C004,Computer,B,online_banking,10,4786.7,2022-10-30,Jamaica,West Fatimastad,carlos.biz,39bb54f8-e93a-42cc-8861-8f9e5fbce488,Y,NA
-9428,BLMDT001,Bert Lynch MD,T001,Towels,D,upi,8042,3057.9,2022-10-31,Virgin Islands, U.S.,North Collinhaven,13552e7b-0f52-4050-af75-ea1b72cbcc5d,N,insufficient_funds
+9428,BLMDT001,Bert Lynch MD,T001,Towels,D,upi,8042,3057.9,2022-10-31,Virgin Islands,Dallas,North Collinhaven,13552e7b-0f52-4050-af75-ea1b72cbcc5d,N,insufficient_funds
 9429,AVT001,Ayden Volkman,T001,Towels,D,upi,3473,706,2022-11-01,Cambodia,Hickleburgh,catalina.biz,175370dc-480d-445f-9345-13894a25c5af,Y,NA
 9430,AGT003,Alex Greenfelder,T003,Tuna,F,online_banking,9964,8001,2022-11-02,Namibia,Connhaven,yazmin.info,25677260-b1b1-49d5-aa80-099e49136d30,Y,NA
 9431,SHP002,Sid Homenick,P002,Pizza,F,card,9305,1023.1,2022-11-03,Fiji,Lake Gailchester,hilario.com,b9069595-832c-4e97-87b2-c254d4930c10,N,insufficient_funds
@@ -9628,7 +9628,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9626,MAT002,Mitchell Ankunding,T002,Table,A,wallet,148,885.3,2022-05-17,Madagascar,South Lonzofort,jany.info,659bd043-12e0-4f63-b38f-d861cbae8007,N,wrong_info
 9627,MRC003,Melany Raynor,C003,Cheese,D,upi,4678,975.7,2022-05-18,Singapore,East Stephon,leda.org,160cad52-a3e7-41b2-9ee1-f478b1c3e7bf,Y,NA
 9628,VBH001,Virgie Bradtke,H001,Hat,F,upi,8119,6157.6,2022-05-19,Palau,Nienowport,zack.net,db040d66-4550-4a3c-ad7b-4d0367d53d70,N,wrong_info
-9629,JRC004,Joshuah Reichel,C004,Computer,B,card,6201,3838.5,2022-05-20,Virgin Islands, U.S.,East Ottilieport,a0dd1f3e-16b1-456e-a581-51addef55f30,Y,NA
+9629,JRC004,Joshuah Reichel,C004,Computer,B,card,6201,3838.5,2022-05-20,Virgin Islands,Chicago,East Ottilieport,a0dd1f3e-16b1-456e-a581-51addef55f30,Y,NA
 9630,ASB002,Antonina Schuppe,B002,Bacon,A,upi,3294,5300.3,2022-05-21,Bangladesh,Korbinchester,karlie.org,0cbf4b72-d495-4a7e-b448-eebace9843d4,Y,NA
 9631,ABIVT003,Abdiel Baumbach IV,T003,Tuna,F,wallet,5242,7636.4,2022-05-22,Bhutan,Port Tavares,mack.name,cf94f4f7-48b6-42e2-952c-2e5bb53cbe02,Y,NA
 9632,CCF001,Cornell Cummerata,F001,Fish,B,card,8920,7840.8,2022-05-23,Montenegro,Aliyahfort,harmon.name,75b7ccfe-e27c-443e-953b-526edb9228ce,Y,NA
@@ -9681,7 +9681,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9679,MSRP001,Mrs. Shaylee Ratke,P001,Pants,B,online_banking,8496,4022.6,2022-07-09,Cyprus,Littlefort,aditya.biz,2a18f95a-4324-4f41-a19e-a65bba80220d,Y,NA
 9680,TLT002,Tessie Luettgen,T002,Table,A,wallet,8135,9715.5,2022-07-10,Gabon,Port Cordeliamouth,virgie.net,6dde319b-a06f-4f1e-bffb-b4b3b8e85c96,Y,NA
 9681,LKC003,Lizzie Kovacek,C003,Cheese,D,wallet,5677,5512.6,2022-07-11,Zambia,Deckowshire,freddie.org,40d4ab08-bb37-4536-9ab0-3a771ae801f1,N,insufficient_funds
-9682,JVDVMS001,Janis Vandervort DVM,S001,Shoes,A,upi,8764,2860.7,2022-07-12,Virgin Islands, U.S.,West Raina,9f7fa842-dd6a-4ac6-9bd8-82aa5da26e66,N,suspicious_txn
+9682,JVDVMS001,Janis Vandervort DVM,S001,Shoes,A,upi,8764,2860.7,2022-07-12,Virgin Islands,Dallas,West Raina,9f7fa842-dd6a-4ac6-9bd8-82aa5da26e66,N,suspicious_txn
 9683,CSB001,Charlie Schaden,B001,Ball,A,card,8343,4774.2,2022-07-13,Iceland,East Jakefort,emmet.biz,67dd183c-e875-41cb-a266-cd3dba2dc635,Y,NA
 9684,ECSC001,Elinore Conroy Sr.,C001,Chicken,C,wallet,6228,5230.3,2022-07-14,Austria,Jakubowskiville,imelda.name,bf043c59-1656-42c6-96fa-447e5d1709f1,N,suspicious_txn
 9685,JCB002,Johathan Connelly,B002,Bacon,A,online_banking,3413,360.7,2022-07-15,South Africa,Port Isobel,antone.info,b1015181-5baa-497e-a719-7beb13ff3aac,Y,NA
@@ -9913,7 +9913,7 @@ order_id,customer_id,customer_name,product_id,product_name,product_category,paym
 9911,VSC001,Verna Stamm,C001,Chicken,C,wallet,5458,7028.1,2022-02-26,Lao People's Democratic Republic,Linnietown,yazmin.net,5e56567f-6506-4310-8895-2a3e4dd73fe9,N,wrong_info
 9912,RKS002,Rosetta Kilback,S002,Sausages,C,wallet,5689,7800.2,2022-02-27,Svalbard & Jan Mayen Islands,Zulauffort,julio.name,ef3ea249-ae0b-4e8b-a9a2-1ab3ba8aa670,N,suspicious_txn
 9913,DBJS003,Donnell Bahringer Jr.,S003,Shirt,B,online_banking,2934,6208.2,2022-02-28,Zambia,Goyettebury,norma.org,16bd5c05-fc32-4eac-9e23-f26a672d3809,Y,NA
-9914,VST003,Vicenta Schamberger,T003,Tuna,F,card,4143,7884.7,2022-03-01,Virgin Islands, British,Port Theodorefort,3268c074-a4c2-4d43-bb6a-5ad49dea96d9,N,wrong_info
+9914,VST003,Vicenta Schamberger,T003,Tuna,F,card,4143,7884.7,2022-03-01,Virgin Islands,Chicago,Port Theodorefort,3268c074-a4c2-4d43-bb6a-5ad49dea96d9,N,wrong_info
 9915,ARB002,Aaliyah Reichel,B002,Bacon,A,online_banking,2570,5461.6,2022-03-02,Equatorial Guinea,DuBuqueberg,mikayla.biz,a211eef6-5af3-48cc-b69f-86466348e0e5,N,insufficient_funds
 9916,SBC006,Steve Braun,C006,Chair,E,online_banking,1557,8942.1,2022-03-03,Cote d'Ivoire,Bertrandhaven,jay.com,f3157be8-ecf2-4b3a-8933-0534af01d34e,Y,NA
 9917,SOM001,Sherwood Olson,M001,Mouse,E,card,2375,2775,2022-03-04,Saint Vincent and the Grenadines,East Anjali,retta.name,31115129-46f3-4a3a-83f7-fa3af57e7db9,N,insufficient_funds
