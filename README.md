@@ -1,4 +1,6 @@
-![Big Data Engineer](https://github.com/kgardea0/.github/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(2).png)
+![Big Data Engineer]( https://github.com/NickFamoye/NickFamoye/blob/main/Team%20Vegas.png)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jmyeary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kiaragardea/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/trathen-mecimore-a157b3131/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NickFamoye)  
+
 
 # BIG DATA ANALYTICAL APPLICATION
 This is a group project that comprises of four team members known as Team Vegas. We developed a Back-end Application with the capacity of analyzing Big Data emphasized on providing solutions to Marketing Department common challenges. We conglomerated Programing languages, query languages and databases to deduce valued information suitable for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
