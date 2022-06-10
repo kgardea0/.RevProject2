@@ -77,7 +77,7 @@ Ensure you follow the above configurations, after which you can input the code i
  ## Nicholas Famoye
    My analytical, creative and collaborative mindset facilitated my desire to transition from a sociological background into technology. 
 
-- 🔭working At Revature as a Big Data Engineering 
+## Big Data Engineer at Revature 
 
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="256" />
