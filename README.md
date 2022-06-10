@@ -19,6 +19,12 @@ This is a group project that comprises of four team members known as Team Vegas.
 
 •⚛	Vegas-spark  – 0.3.11	
 
+### Integrated Development Environment
+
+•	Intellij – 2011
+
+•	Jupyter Notebook
+
 ## Features:
 
 •	Imported packages to enhance Spark Session and Vegas connection
