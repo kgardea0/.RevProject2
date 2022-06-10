@@ -57,7 +57,7 @@ To-do list:
 
 •	Configure IntelliJ or IDE of your choice to work with the appropriate version of JDK.
 
-•	Run from within IDE.
+•	Run from within preferred IDE.
 
 
 ## Usage
