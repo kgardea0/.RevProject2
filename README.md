@@ -1,9 +1,44 @@
 ![Big Data Engineer](https://github.com/kgardea0/.github/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(2).png)
 
 # BIG DATA ANALYTICAL APPLICATION
-We developed a Back-end Application with the capacity of analyzing Big Data emphasized on providing solutions to Marketing Department common challenges. We conglomerated Programing languages, query languages and databases to deduce valued information suitable for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
+This is a group project that comprises of four team members. We developed a Back-end Application with the capacity of analyzing Big Data emphasized on providing solutions to Marketing Department common challenges. We conglomerated Programing languages, query languages and databases to deduce valued information suitable for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
 
 [Project 2 Link](https://github.com/kgardea0/.github.git)
+
+## Languages And Technology  
+
+•⚛	Scala - 2.11.12
+
+•⚛	Java -1.8.1 as the SDK
+
+•⚛	Sbt  – 0.13.18
+
+•⚛	Spark SQL  – 2.4.8
+
+•⚛	Vegas-viz  – 0.3.11
+
+•⚛	Vegas-spark  – 0.3.11	
+
+## Features:
+
+•	Imported packages to enhance Spark Session and Vegas connection
+
+•	Established connections for Spark Session, Vegas and CSV file.
+
+•	A Menu object with Administrative privileges that encompasses option such as:
+
+    •	SPRINT LOG
+    •	TEAM LOGIN
+    •	QUERIES/ANALYSIS
+    •	LOG OUT
+
+To-do list:
+
+    •	Further develop skills to utilize CLI for Spark Submit 
+    •	Create a scalable new user login with registration feature 
+    •	Integrate Hive in the 
+    •	Utilizing case classes for cleaner and professional programming.
+
 
 # Team Members    
  ## Justin Yeary
@@ -17,14 +52,6 @@ We developed a Back-end Application with the capacity of analyzing Big Data emph
  
  ## Nicholas Famoye
    My analytical, creative and collaborative mindset facilitated my desire to transition from a sociological background into technology. 
-
- 
-
-## Languages And Technology  
-* ⚛ Spark 
-* ⚛ Scala 
-* ⚛ Hive 
-* ⚛ Linux
 
 - 🔭working At Revature as a Big Data Engineering 
 
