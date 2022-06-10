@@ -1,4 +1,4 @@
-![Big Data Engineer]( https://github.com/kgardea0/.github/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(2).png)
+![Big Data Engineer](https://github.com/kgardea0/.github/blob/main/Blue%20and%20yellow%20simple%20digital%20marketing%20banner%20(2).png)
 
 # BIG DATA ANALYTICAL APPLICATION
 We developed a Back-end Application with the capacity of analyzing Big Data emphasized on providing solutions to Marketing Department common challenges. We conglomerated Programing languages, query languages and databases to deduce valued information suitable for Real-Time Diagnostic and Descriptive Purposes and also Futuristic Prescriptive and Predictive Purposes.
