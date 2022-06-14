@@ -23,7 +23,7 @@ This is a group project that comprises of four team members known as Team Vegas.
 
 ### Integrated Development Environment
 
-•	Intellij – 2011
+•	Intellij – 2021
 
 •	Jupyter Notebook
 
