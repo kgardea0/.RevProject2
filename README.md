@@ -9,21 +9,21 @@ This is a group project that comprises of four team members known as Team Vegas.
 
 ## Languages And Technology  
 
-•⚛	Scala - 2.11.12
+•⚛	Scala - 2.11.12 version
 
-•⚛	Java -1.8.1 as the SDK
+•⚛	Java -1.8.1 version as the SDK
 
-•⚛	Sbt  – 1.6.2
+•⚛	Sbt  – 1.6.2 version
 
-•⚛	Spark SQL  – 2.4.8
+•⚛	Spark SQL  – 2.4.8 version
 
-•⚛	Vegas-viz  – 0.3.11
+•⚛	Vegas-viz  – 0.3.11 version
 
-•⚛	Vegas-spark  – 0.3.11	
+•⚛	Vegas-spark  – 0.3.11 version	
 
 ### Integrated Development Environment
 
-•	Intellij – 2021
+•	Intellij – 2021 version
 
 •	Jupyter Notebook
 
