@@ -13,7 +13,7 @@ This is a group project that comprises of four team members known as Team Vegas.
 
 •⚛	Java -1.8.1 as the SDK
 
-•⚛	Sbt  – 0.13.18
+•⚛	Sbt  – 1.6.2
 
 •⚛	Spark SQL  – 2.4.8
 
