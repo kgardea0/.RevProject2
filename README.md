@@ -44,7 +44,7 @@ To-do list:
 
     •	Further develop skills to utilize CLI for Spark Submit 
     •	Create a scalable new user login with registration feature 
-    •	Integrate Hive in the 
+    •	Integrate Hive
     •	Utilizing case classes for cleaner and professional programming.
     
 ## Getting Started
